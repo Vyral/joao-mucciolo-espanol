@@ -8,13 +8,13 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
-title: this is a test post
+title: Este es un post de prueba
 date: 2018-05-10
 tags:
-  - Actualización del Mercado (Market Update)
-  - Bienes Raíces (Real Estate)
-  - Consejos para Vendedores de Propiedad (Home Buyer Tips)
-  - Articles
+  - Actualización del Mercado
+  - Bienes Raíces
+  - Consejos para Vendedores de Propiedad
+  - Articulos
 excerpt: 'Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.'
 enclosure:
 pullquote: This is an example of a pull quote

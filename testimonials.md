@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Testimonials
-permalink: /testimonials/
+title: Testimonios
+permalink: /testimonios/
 ---
 
-<h1>Client Testimonials</h1>
+<h1>Testimonios</h1>
 
 <div class="client-testimonial">
 <!-- insert iframe -->
