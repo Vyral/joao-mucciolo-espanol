@@ -35,7 +35,7 @@ client:
 
 CTAs:
   first_CTA_text: Búsqueda de listados
-  first_CTA_URL: https://www.kwnicaragua.com/listings?transactionType=1&resCom=1#?resCom=1&transactionType=1&lan=en-US&currency=USD&filterVal=1026&refineSearch=1&pageNumber=1
+  first_CTA_URL: https://www.kwnicaragua.com/Joao
   second_CTA_text: Evaluación de propiedad
   second_CTA_URL: /valor-de-la-propiedad/
   third_CTA_text: Propiedades para alquilar
@@ -46,7 +46,7 @@ sidebar_CTA:
     CTA_title: "¿Busca una casa en San Juan del Sur?"
     CTA_text: "Buscar todas las propiedades residenciales disponibles para la venta"
     CTA_link_text: "Búsqueda de listados"
-    CTA_url: https://www.kwnicaragua.com/listings?transactionType=1&resCom=1#?resCom=1&transactionType=1&lan=en-US&currency=USD&filterVal=1026&refineSearch=1&pageNumber=1
+    CTA_url: https://www.kwnicaragua.com/Joao
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/001.jpg

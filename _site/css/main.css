@@ -1024,7 +1024,6 @@ there.
   max-width: 65%; }
 
 .navbar-nav > li {
-  margin-right: 10px;
   margin-bottom: 0px;
   transition: all 0.15s ease-out 0s; }
 
@@ -2225,9 +2224,6 @@ form select {
 
 .client-testimonial {
   margin-top: 10px; }
-
-.testimonial-text {
-  font-style: italic; }
 
 .testimonial-author {
   color: #b40101;
