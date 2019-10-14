@@ -50,8 +50,8 @@ sidebar_CTA:
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/001.jpg
-    CTA_title2: "Buscando un hogar?"
-    CTA_text2: "Busque en toda la MLS su propiedad."
+    CTA_title2: "¿Cuánto vale su propiedad?"
+    CTA_text2: "¿Está pensando en vender su casa o está interesado en conocer los precios de la vivienda en su vecindario? Te podemos ayudar."
     CTA_link_text2: "Evaluación de propiedad"
     CTA_url2: /valor-de-la-propiedad/
 
