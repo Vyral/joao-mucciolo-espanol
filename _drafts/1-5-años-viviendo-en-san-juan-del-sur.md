@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: 1.5 años de nuestra nueva vida!
 date:
 tags:
   - Articulos
