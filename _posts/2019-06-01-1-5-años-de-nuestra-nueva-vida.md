@@ -14,7 +14,7 @@ youtube_alternate_image: /uploads/61233599-10156169446366863-2802475807136546816
 youtube_code:
 ---
 
-![](/uploads/61233599-10156169446366863-2802475807136546816-n.jpg){: width="960" height="960"}
+&nbsp;
 
 Han pasado ya 1 a&ntilde;o y medio desde que nos mudamos a vivir a San Juan del Sur, y te quer&iacute;a compartir nuestra experiencia hasta el momento.&nbsp;
 
