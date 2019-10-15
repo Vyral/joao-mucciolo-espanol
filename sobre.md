@@ -1,8 +1,13 @@
 ---
-layout: default
+layout: page
 title: Sobre
 permalink: /sobre/
 ---
 <div class="whitespace">
-  <iframe src="/uploads/presentation.pdf" width="100%" height="600px">
+<img src="/uploads/slide2.jpg" class="post-image" style="margin-bottom: 1rem">
+<img src="/uploads/slide3.jpg" class="post-image" style="margin-bottom: 1rem">
+<img src="/uploads/slide4.jpg" class="post-image" style="margin-bottom: 1rem">
+<img src="/uploads/slide5.jpg" class="post-image" style="margin-bottom: 1rem">
+<img src="/uploads/slide6.jpg" class="post-image" style="margin-bottom: 1rem">
+<img src="/uploads/slide7.jpg" class="post-image" style="margin-bottom: 1rem">
 <div>
