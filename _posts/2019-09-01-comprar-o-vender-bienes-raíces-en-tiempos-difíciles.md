@@ -3,6 +3,7 @@ layout: post
 title: Comprar o vender bienes raíces en tiempos difíciles
 date: 2019-09-01 00:00:00
 tags:
+  - Articulos
 excerpt:
 enclosure:
 pullquote:
