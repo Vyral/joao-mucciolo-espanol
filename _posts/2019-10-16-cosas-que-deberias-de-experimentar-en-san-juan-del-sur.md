@@ -16,13 +16,13 @@ youtube_code:
 
 Creo que es algo com&uacute;n ver como la gente en su propio pa&iacute;s no le saca el provecho a las bondades que uno encuentra en su propio entorno. Mucha gente viaja para experimentar el mundo, pero nos olvidamos de experimentar el mismo lugar adonde vivimos.
 
-Gran parte de mi juventud pase metido en el "bacanal" y no le saque provecho a lo que me brindaba el pa&iacute;s...mas que la oportunidad de jugar el "high-ball" a una temprana edad.
+Gran parte de mi juventud pase metido en el "bacanal" y no le saque provecho a lo que me brindaba el pa&iacute;s…mas que la oportunidad de jugar el "high-ball" a una temprana edad.
 
 Todo cambio cuando descubr&iacute; el surf.&nbsp;
 
 Hace mas de 10 a&ntilde;os, mi mejor amigo iba por mal camino en su vida, y me dijo que pensaba que el surf lo podia enderezar. Entonces, siendo solidario, le dije que lo acompa&ntilde;ar&iacute;a porque quer&iacute;a verlo feliz y sano.
 
-El surf me abri&oacute; los ojos y vi que Nicaragua tiene una riqueza natural enorme...hasta envidiable por muchos otros pa&iacute;ses. Y esta es una de las principales razones que me mude a San Juan del Sur con mi familia, para estar rodeado de la belleza natural de esta zona.
+El surf me abri&oacute; los ojos y vi que Nicaragua tiene una riqueza natural enorme…hasta envidiable por muchos otros pa&iacute;ses. Y esta es una de las principales razones que me mude a San Juan del Sur con mi familia, para estar rodeado de la belleza natural de esta zona.
 
 Por lo tanto te quer&iacute;a compartir las cosas que deber&iacute;as de experimentar cuando vengas a San Juan del Sur. Son las cosas que mi familia y yo hacemos, y tambi&eacute;n lo que hace la gran mayor&iacute;a de turistas que nos visita:
 
@@ -38,4 +38,4 @@ Por lo tanto te quer&iacute;a compartir las cosas que deber&iacute;as de experim
 
 6\.&nbsp;**No hagas nada:&nbsp;**descansa, acu&eacute;state en una hamaca, disfruta la vista, lee un libro. Desconectate.
 
-Espero que te gusten mis recomendaciones.....te estar&eacute; esperando en el surf en tu pr&oacute;xima visita.
+Espero que te gusten mis recomendaciones…..te estar&eacute; esperando en el surf en tu pr&oacute;xima visita.
