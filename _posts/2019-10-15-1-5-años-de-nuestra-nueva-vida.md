@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1.5 años de nuestra nueva vida!
-date:
+date: 2019-10-15 16:51:29
 tags:
   - Articulos
 excerpt:
