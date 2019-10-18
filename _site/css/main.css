@@ -1019,7 +1019,7 @@ there.
   color: #b40101;
   padding-top: 20px;
   padding-bottom: 33px;
-  font-size: 20px;
+  font-size: 17px;
   text-transform: uppercase;
   max-width: 65%; }
 
@@ -1031,7 +1031,7 @@ there.
   background: transparent;
   color: black;
   text-transform: capitalize;
-  font-size: 2rem;
+  font-size: 17px;
   font-weight: 300; }
   .navbar-left > li > a:hover {
     background: #eeeeee;
@@ -1049,7 +1049,7 @@ there.
   background: transparent;
   color: #123456;
   text-transform: capitalize;
-  font-size: 2rem;
+  font-size: 17px;
   font-weight: 300; }
   .cta:hover {
     background: #eeeeee;
@@ -1075,7 +1075,7 @@ there.
   color: black;
   background-color: #ffffff;
   font-weight: 300;
-  font-size: 20px;
+  font-size: 17px;
   border: none;
   text-transform: capitalize;
   margin-bottom: 0; }
@@ -1095,7 +1095,7 @@ there.
   background-color: #eee;
   text-decoration: none;
   display: block;
-  font-size: 20px; }
+  font-size: 17px; }
 
 .dropdown:hover .dropdown-content {
   display: block; }
