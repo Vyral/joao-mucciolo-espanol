@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Cómo es el estado del mercado de bienes raíces de San Juan del Sur?
-date: 2019-10-28 15:44:46
+date: 2019-10-28 15:44:00
 tags:
   - Actualización del Mercado
 excerpt: >-
@@ -18,6 +18,8 @@ youtube_code: X9ZiA33Kd4o
 ---
 
 {% include youtube.html %}
+
+Aunque nuestro pa&iacute;s est&aacute; pasando por momentos dif&iacute;ciles, nuestro mercado de bienes ra&iacute;ces sigue siendo bastante activo. Estas son algunas de las &uacute;ltimas tendencias.
 
 Nicaragua est&aacute; pasando por momentos dif&iacute;ciles e inciertos en este momento, pero eso no significa que nuestro mercado de bienes ra&iacute;ces haya estado inactivo. **Por el contrario, ha sido muy activo.**
 
