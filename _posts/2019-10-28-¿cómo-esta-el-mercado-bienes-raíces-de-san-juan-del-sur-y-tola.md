@@ -20,7 +20,7 @@ youtube_code: a_Hqcu6N-Zc
 
 {% include youtube.html %}
 
-*Aunque nuestro pa&iacute;s est&aacute; pasando por momentos dif&iacute;ciles, nuestro mercado de bienes ra&iacute;ces sigue siendo bastante activo. Estas son algunas de las &uacute;ltimas tendencias.*
+<p style="text-align:center;"><em>Aunque nuestro pa&iacute;s est&aacute; pasando por momentos dif&iacute;ciles, nuestro mercado de bienes ra&iacute;ces sigue siendo bastante activo. Estas son algunas de las &uacute;ltimas tendencias.</em></p>
 
 Nicaragua est&aacute; pasando por momentos dif&iacute;ciles e inciertos en este momento, pero eso no significa que nuestro mercado de bienes ra&iacute;ces haya estado inactivo.&nbsp;**Por el contrario, ha estado bastante activo.**
 
