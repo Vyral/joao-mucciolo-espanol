@@ -8,7 +8,8 @@ excerpt: >-
   Aunque nuestro país está pasando por momentos difíciles, nuestro mercado de
   bienes raíces sigue siendo bastante activo. Estas son algunas de las últimas
   tendencias.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Como+es+el+Estado+del+Mercado+Bienes+Raices+de+San+Juan+del+Sur_+(1).mp4
 pullquote: 'Estamos viendo una mezcla de compras de lotes, casas y condominios.'
 enclosure_type: video/mp4
 enclosure_time:
