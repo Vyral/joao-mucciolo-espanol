@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 razones que nos gusta vivir en San Juan del sur
-date:
+date: 2019-11-14 16:39:03
 tags:
   - Bienes Raíces
 excerpt: >-
