@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 razones que nos gusta vivir en San Juan del sur
-date: 2019-11-14 16:39:03
+date: 2019-11-14 16:39:00
 tags:
   - Bienes Raíces
 excerpt: >-
@@ -21,6 +21,8 @@ youtube_code: G0hUcct57DA
 ---
 
 {% include youtube.html %}
+
+Hoy, me acompa&ntilde;a una invitada especial, Ver&oacute;nica, mi esposa, para compartir 10 razones por que nos encanta vivir en San Juan del Sur.
 
 Mi esposa, Ver&oacute;nica, y yo nos encantan vivir en San Juan del Sur. Aqu&iacute; son 10 razones principales por que y por qu&eacute; usted tambi&eacute;n podr&iacute;a hacerlo:
 
