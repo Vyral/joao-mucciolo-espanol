@@ -10,7 +10,7 @@ excerpt: >-
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/10+razones+que+nos+gusta+vivir+en+San+Juan+del+sur.mp4
 pullquote: >-
-  Con el océano a un lado y hermosos árboles al otro, San Juan es un gran lugar
+  Con el océano a un lado y árboles hermosos al otro, San Juan es un gran lugar
   para sumergirse en el medio ambiente.
 enclosure_type: video/mp4
 enclosure_time:
@@ -22,9 +22,9 @@ youtube_code: G0hUcct57DA
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Hoy, me acompa&ntilde;a una invitada especial, Ver&oacute;nica, mi esposa, para compartir 10 razones por que nos encanta vivir en San Juan del Sur.</em></p>
+*Hoy, me acompa&ntilde;a una invitada especial, Ver&oacute;nica, mi esposa, para compartir 10 razones por que nos encanta vivir en San Juan del Sur.*
 
-Mi esposa, Ver&oacute;nica, y yo nos encanta vivir en San Juan del Sur. Aqu&iacute; son 10 razones principales por que y por qu&eacute; usted tambi&eacute;n podr&iacute;a hacerlo:
+Mi esposa, Ver&oacute;nica, y yo nos encanta vivir en San Juan del Sur. Aqu&iacute; son 10 razones principales por que y por qu&eacute; usted le encanar&iacute;a tambi&eacute;n:
 
 **Tiempo familiar.** San Juan del Sur es un peque&ntilde;o pueblo que es muy atractivo para las familias, y la playa no est&aacute; muy lejos.
 
@@ -36,17 +36,17 @@ Mi esposa, Ver&oacute;nica, y yo nos encanta vivir en San Juan del Sur. Aqu&iacu
 
 {% include pullquote.html %}
 
-**Tiempo en playa.** La playa est&aacute; pr&aacute;cticamente en nuestro patio trasero. Playa El Majahual es nuestra favorita: hay mucho espacio para que jueguen los ni&ntilde;os y generalmente no hay mucha gente alrededor.
+**Tiempo en la playa.** La playa est&aacute; pr&aacute;cticamente en nuestro patio trasero. Playa El Majahual es nuestra favorita: hay mucho espacio para que jueguen los ni&ntilde;os y generalmente no hay mucha gente alrededor.
 
-**Conocer gente nueva.** Nos encanta conocer nuevas personas que viajan a San Juan por vacaciones o que viven cerca. Siempre tienen una historia que contar.
+**Conocer gente nueva.** Nos encanta conocer nuevas personas que viajan a San Juan de vacaciones o que viven cerca. Siempre tienen una historia que contar.
 
-**La vida de una cuidad penquena.** Hay poco o ning&uacute;n tr&aacute;fico o sem&aacute;foros, y hay muchas comidas deliciosas hechas por la gente local como pan de coco, picos, jugos y otras delicias org&aacute;nicas.
+**La vida de una cuidad penquena.** Hay poco o ning&uacute;n tr&aacute;fico ni sem&aacute;foros, y hay muchas comidas deliciosas hechas por la gente local como pan de coco, picos, jugos y otras delicias org&aacute;nicas.
 
 **Economico Vivir.** Nicaragua es muy barato y San Juan es a&uacute;n m&aacute;s barato.
 
-**Disfrutando de la vista.** A veces nos gusta quedarnos en casa, y no hay mejor lugar para hacerlo que en una casa economico con una vista fant&aacute;stica.
+**Disfrutando de las vistas.** A veces nos gusta quedarnos en casa, y no hay mejor lugar para hacerlo que en una casa economico con una vista fant&aacute;stica.
 
-**Inmersi&oacute;n en la naturaleza.** Con el oc&eacute;ano a un lado y hermosos &aacute;rboles al otro, San Juan es un gran lugar para sumergirse en el medio ambiente. Se pueden ver monos y otros animales con frecuencia, y por la noche, las estrellas no se ven atenuadas por las luces de la ciudad.
+**Inmersi&oacute;n en la naturaleza.** Con el oc&eacute;ano a un lado y &aacute;rboles hermosos al otro, San Juan es un gran lugar para tomar el sol. Se pueden ver monos y otros animales con frecuencia, y por la noche, las estrellas no se ven atenuadas por las luces de la ciudad.
 
 Como puede ver, hay muchas razones para disfrutar la vida en San Juan del Sur. Si tiene alguna pregunta para nosotros, no dude en comunicarse. Estaremos encantados de compartir cualquier informaci&oacute;n que podamos con usted.
 
