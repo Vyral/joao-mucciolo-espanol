@@ -22,7 +22,7 @@ youtube_code: G0hUcct57DA
 
 {% include youtube.html %}
 
-Hoy, me acompa&ntilde;a una invitada especial, Ver&oacute;nica, mi esposa, para compartir 10 razones por que nos encanta vivir en San Juan del Sur.
+<p style="text-align:center;"><em>Hoy, me acompa&ntilde;a una invitada especial, Ver&oacute;nica, mi esposa, para compartir 10 razones por que nos encanta vivir en San Juan del Sur.</em></p>
 
 Mi esposa, Ver&oacute;nica, y yo nos encantan vivir en San Juan del Sur. Aqu&iacute; son 10 razones principales por que y por qu&eacute; usted tambi&eacute;n podr&iacute;a hacerlo:
 
