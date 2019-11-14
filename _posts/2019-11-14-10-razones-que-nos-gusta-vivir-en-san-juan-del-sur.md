@@ -11,7 +11,7 @@ enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/10+razones+que+nos+gusta+vivir+en+San+Juan+del+sur.mp4
 pullquote: >-
   Con el océano a un lado y árboles hermosos al otro, San Juan es un gran lugar
-  para sumergirse en el medio ambiente.
+  para tomar el sol.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
