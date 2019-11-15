@@ -22,17 +22,17 @@ youtube_code: G0hUcct57DA
 
 {% include youtube.html %}
 
-*Hoy, me acompa&ntilde;a una invitada especial, Ver&oacute;nica, mi esposa, para compartir 10 razones por que nos encanta vivir en San Juan del Sur.*
+*Hoy me acompa&ntilde;a una invitada especial, Ver&oacute;nica, mi esposa, para compartirles las 10 razones del por que nos encanta vivir en San Juan del Sur.*
 
-Mi esposa, Ver&oacute;nica, y yo nos encanta vivir en San Juan del Sur. Aqu&iacute; son 10 razones principales por que y por qu&eacute; usted le encanar&iacute;a tambi&eacute;n:
+Mi esposa Ver&oacute;nica, y a mi nos encanta vivir en San Juan del Sur. Aqu&iacute; las 10 razones principales del por que y por qu&eacute; a usted le encanar&iacute;a tambi&eacute;n:
 
-**Tiempo familiar.** San Juan del Sur es un peque&ntilde;o pueblo que es muy atractivo para las familias, y la playa no est&aacute; muy lejos.
+**Tiempo familiar.** San Juan del Sur es un peque&ntilde;o pueblo que es muy atractivo para las familias, y estamos rodeados de playas.
 
-**Bienestar.** Si te gusta la vida sana, te encantar&aacute; San Juan del Sur: hay muchas oportunidades para hacer yoga, y hay frutas y superalimentos frescos y saludables disponibles.
+**Bienestar.** Si te gusta la vida sana, te encantar&aacute; San Juan del Sur: hay muchas oportunidades para hacer yoga, y hay frutas frescas y saludables disponibles.
 
-**Surf.** Tenemos la bendici&oacute;n de vivir cerca de tantas playas como El Remanso, Hermosa, Yankee, Maderas y m&aacute;s. Hay mucho viento y olas casi todo el a&ntilde;o.
+**Surf.** Tenemos la bendici&oacute;n de vivir cerca de tantas playas como El Remanso, Hermosa, Yankee, Maderas y m&aacute;s. Hay excelente viento y olas casi todo el a&ntilde;o.
 
-**Escuelas.** Los ni&ntilde;os pueden asistir la escuela en San Juan del Sur. Es un gran lugar donde &nbsp;ni&ntilde;os que sean ellos mismos, juegan en la naturaleza y aprendan y se diviertan al mismo tiempo.
+**Escuelas.** Los ni&ntilde;os pueden asistir la escuela en "San Juan del Sur Day School." Es un gran lugar donde los ni&ntilde;os puedan ser ellos mismos, juegan en la naturaleza,&nbsp; aprendan y se diviertan al mismo tiempo.
 
 {% include pullquote.html %}
 
@@ -44,7 +44,7 @@ Mi esposa, Ver&oacute;nica, y yo nos encanta vivir en San Juan del Sur. Aqu&iacu
 
 **Economico Vivir.** Nicaragua es muy barato y San Juan es a&uacute;n m&aacute;s barato.
 
-**Disfrutando de las vistas.** A veces nos gusta quedarnos en casa, y no hay mejor lugar para hacerlo que en una casa economico con una vista fant&aacute;stica.
+**Disfrutando de las vistas.** A veces nos gusta quedarnos en casa, y no hay mejor lugar para hacerlo que en una casa con una vista fant&aacute;stica.
 
 **Inmersi&oacute;n en la naturaleza.** Con el oc&eacute;ano a un lado y &aacute;rboles hermosos al otro, San Juan es un gran lugar para tomar el sol. Se pueden ver monos y otros animales con frecuencia, y por la noche, las estrellas no se ven atenuadas por las luces de la ciudad.
 
