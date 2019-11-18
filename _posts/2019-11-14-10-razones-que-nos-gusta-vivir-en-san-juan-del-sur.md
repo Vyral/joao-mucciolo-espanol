@@ -17,7 +17,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/joao-mucciolo---why-we-love-living-in-san-juan-del-sur---por-qué-nos-encanta-vivir-en-san-juan-del-sur-youtube.jpg
-youtube_code: G0hUcct57DA
+youtube_code: U7YGc1YgGyA
 ---
 
 {% include youtube.html %}
