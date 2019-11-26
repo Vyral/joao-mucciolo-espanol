@@ -17,7 +17,7 @@ youtube_code: COnvBhmsbJc
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Hoy estoy entrevistando al fundador y director de la San Juan Del Sure Day School para mostrarles por qu&eacute; es un lugar tan bueno para enviar a sus hijos.</em></p>
+<p style="text-align:center;"><em>Hoy estoy entrevistando al fundador y director de la San Juan Del Sur Day School para mostrarles por qu&eacute; es un lugar tan bueno para enviar a sus hijos.</em></p>
 
 Hoy estoy entrevistando a Julie Spire, la fundadora y directora de la San Juan del Sur Day School. &iquest;Por qu&eacute;? Porque cada vez que le digo a alguien que me mueve a San Juan del Sur, me preguntan qu&eacute; hago para educar a mis hijos. Esta escuela nos ha permitido vivir aqu&iacute; y saber que nuestros hijos est&aacute;n recibiendo una excelente educaci&oacute;n. Si desea informaci&oacute;n adicional sobre la escuela, puede visitar su sitio web [aqu&iacute;.](https://sanjuandelsurdayschool.com/){: target="_blank"}
 
