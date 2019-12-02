@@ -17,7 +17,7 @@ youtube_code: COnvBhmsbJc
 
 {% include youtube.html %}
 
-*Hoy estoy entrevistando a la fundadora y directora de San Juan Del Sur Day School para mostrarles por qu&eacute; es un lugar bueno para enviar a sus hijos.*
+<p style="text-align:center;"><em>Hoy estoy entrevistando a la fundadora y directora de San Juan Del Sur Day School para mostrarles por qu&eacute; es un lugar bueno para enviar a sus hijos.</em></p>
 
 Hoy estoy entrevistando a Julie Speier, la fundadora y directora de la San Juan del Sur Day School. &iquest;Por qu&eacute;? Porque cada vez que le digo a alguien que me mude a San Juan del Sur, me preguntan qu&eacute; hago para educar a mis hijos. Esta escuela nos ha permitido vivir aqu&iacute; y saber que nuestros hijos est&aacute;n recibiendo una excelente educaci&oacute;n. Si desea informaci&oacute;n adicional sobre la escuela, puede visitar su sitio web&nbsp;[aqu&iacute;.](https://sanjuandelsurdayschool.com/){: target="_blank"}
 
