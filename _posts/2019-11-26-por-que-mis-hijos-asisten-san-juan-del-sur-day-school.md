@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Por Que Mis Hijos asisten San Juan Del Sure Day School
+title: Por Que Mis Hijos asisten San Juan Del Sur Day School
 date: 2019-11-26 22:13:00
 tags:
   - Articulos
