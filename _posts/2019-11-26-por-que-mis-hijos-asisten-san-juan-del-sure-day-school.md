@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
-  /uploads/joao-mucciolo---por-qué-envío-a-mis-hijos---why-i-send-my-kids-youtube.jpg
+  /uploads/joao-mucciolo---por-qué-envío-a-mis-hijos---why-i-send-my-kids-3-0-youtube.jpg
 youtube_code: COnvBhmsbJc
 ---
 
