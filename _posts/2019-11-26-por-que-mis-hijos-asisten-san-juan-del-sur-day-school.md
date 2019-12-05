@@ -13,6 +13,7 @@ use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/joao-mucciolo---por-qué-envío-a-mis-hijos---why-i-send-my-kids-3-0-youtube.jpg
 youtube_code: 07mdf5Ot-3o
+permalink: /por-que-mis-hijos-asisten-san-juan-del-sure-day-school.html
 ---
 
 {% include youtube.html %}
