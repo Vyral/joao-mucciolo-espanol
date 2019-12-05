@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Por Que Mis Hijos asisten San Juan Del Sur Day School
-date: 2019-11-26 22:13:00
+date: 2019-11-26 00:00:00
 tags:
   - Articulos
 excerpt: "Hoy estoy entrevistando al fundador y director de la San Juan Del Sure Day School\_para mostrarles por qué es un lugar tan bueno para enviar a sus hijos."
