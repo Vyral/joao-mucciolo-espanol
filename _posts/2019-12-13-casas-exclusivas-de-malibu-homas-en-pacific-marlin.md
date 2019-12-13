@@ -22,7 +22,7 @@ youtube_code: jZ55bvVpqrE
 
 {% include youtube.html %}
 
-Si est&aacute; buscando comprar o alquilar una casa de lujo, conozco el lugar: Malibu en Pacific Marlin.
+<p style="text-align: center;"><em>Si est&aacute; buscando comprar o alquilar una casa de lujo, conozco el lugar: Malibu en Pacific Marlin.</em></p>
 
 Hoy estoy destacando las propiedades exclusivas de Malibu en Pacific Marlin en San Juan del Sur. Se une a m&iacute; el desarrollador de propiedades, Lance Rader de Malibu Developments.
 
