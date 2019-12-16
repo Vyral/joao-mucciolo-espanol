@@ -22,7 +22,7 @@ youtube_code: jZ55bvVpqrE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Si est&aacute; buscando comprar o alquilar una casa de lujo, conozco el lugar: Malibu en Pacific Marlin.</em></p>
+*Si est&aacute; buscando comprar o alquilar una casa de lujo, conozco el lugar: Malibu en Pacific Marlin.*
 
 Hoy estoy destacando las propiedades exclusivas de Malibu en Pacific Marlin en San Juan del Sur. Se une a m&iacute; el desarrollador de propiedades, Lance Rader de Malibu Developments.
 
@@ -43,3 +43,14 @@ Lance se mud&oacute; a Nicaragua hace unos 10 a&ntilde;os, y su negocio principa
 &iquest;Cu&aacute;l es la parte favorita de Lance en San Juan del Sur? Las mismas razones por las que eligi&oacute; este lugar para construir en primer lugar: las playas, el clima y la fant&aacute;stica vida nocturna.
 
 Si desea obtener m&aacute;s informaci&oacute;n sobre estas propiedades o si tiene otras necesidades inmobiliarias, no dude en comunicarse conmigo. Me encantar&iacute;a hablar contigo.
+
+&nbsp;
+
+Mira nuestros listados favoritos:
+
+* [Casa Duplex en Malib&uacute;: 3 dormitorios, 3 ba&ntilde;os](https://www.kwnicaragua.com/listingDetails/1082-169)&nbsp;
+* [Townhomes en residencia Malib&uacute;: 3 dormitorios, 3 ba&ntilde;os](https://www.kwnicaragua.com/listingDetails/1082-200)
+* [Residencia en Exclusivo Reparto cerrado Malib&uacute;: 4 dormitorios, 4 ba&ntilde;os](https://www.kwnicaragua.com/listingDetails/1082-636)&nbsp;
+* [Casa disponible lujoso Reparto de Malib&uacute;&nbsp;](kwnicaragua.com/listingDetails/1082-903)&nbsp;
+
+&nbsp;
