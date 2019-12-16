@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Casas exclusivas de Malibu Homas en Pacific Marlin
+title: Lujo en su máxima expresión
 date: 2019-12-13 20:11:00
 tags:
   - Bienes Raíces
@@ -22,7 +22,7 @@ youtube_code: jZ55bvVpqrE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Si est&aacute; buscando comprar o alquilar una casa de lujo, conozco el lugar: Malibu en Pacific Marlin.</em></p>
+*Si est&aacute; buscando comprar o alquilar una casa de lujo, conozco el lugar: Malibu en Pacific Marlin.*
 
 Hoy estoy destacando las propiedades exclusivas de Malibu en Pacific Marlin en San Juan del Sur. Se une a m&iacute; el desarrollador de propiedades, Lance Rader de Malibu Developments.
 
