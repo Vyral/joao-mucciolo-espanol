@@ -19,7 +19,7 @@ youtube_code: sVBqWTr7O4g
 
 {% include youtube.html %}
 
-A la luz de la temporada navide&ntilde;a, queremos compartir lo que estamos agradecidos.
+<p style="text-align:center;"><em>A la luz de la temporada navide&ntilde;a, queremos compartir lo que estamos agradecidos.</em></p>
 
 La Navidad est&aacute; aqu&iacute;, lo que significa que ahora es el momento de la gratitud. Aqu&iacute; en Trinity Real Estate, estamos muy agradecidos. 2019 fue un a&ntilde;o dif&iacute;cil en Nicaragua, pero tenemos muchas bendiciones por las cuales estamos agradecidos.
 
