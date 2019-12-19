@@ -18,11 +18,12 @@ use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/joao-mucciolo---casas-exclusivas-de-malibu-homas-en-pacific-marlin--showcasing-the-exclusive-malibu-homes-in-pacific-marlin-youtube.jpg
 youtube_code: jZ55bvVpqrE
+permalink: /casas-exclusivas-de-malibu-homas-en-pacific-marlin.html
 ---
 
 {% include youtube.html %}
 
-*Si est&aacute; buscando comprar o alquilar una casa de lujo, conozco el lugar perfecto: Malibu en Pacific Marlin.*
+<p style="text-align:center;"><em>Si est&aacute; buscando comprar o alquilar una casa de lujo, conozco el lugar perfecto: Malibu en Pacific Marlin.</em>
 
 Hoy estoy destacando las propiedades exclusivas de Malibu en Pacific Marlin en San Juan del Sur. Se une a m&iacute; el desarrollador de propiedades, Lance Rader de Malibu Developments.
 
