@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Un Mensaje Especial de Navidad de Nuestra Familia a la Tuya
-date: 2019-12-17 17:48:04
+date: 2019-12-17 17:48:00
 tags:
   - Articulos
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: sVBqWTr7O4g
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>A la luz de la temporada navide&ntilde;a, queremos compartir lo que estamos agradecidos.</em></p>
+*A la luz de la temporada navide&ntilde;a, queremos compartir lo que estamos agradecidos.*
 
 La Navidad est&aacute; aqu&iacute;, lo que significa que ahora es el momento de la gratitud. Aqu&iacute; en Trinity Real Estate, estamos muy agradecidos. 2019 fue un a&ntilde;o dif&iacute;cil en Nicaragua, pero tenemos muchas bendiciones por las cuales estamos agradecidos.
 
