@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/joao-mucciolo---a-special-holiday-message-youtube.jpg
-youtube_code: sVBqWTr7O4g
+youtube_code: pI9oXfX9laU
 ---
 
 {% include youtube.html %}
 
-*A la luz de la temporada navide&ntilde;a, queremos compartir lo que estamos agradecidos.*
+<p style="text-align:center;"><em>A la luz de la temporada navide&ntilde;a, queremos compartir lo que estamos agradecidos.</em></p>
 
 La Navidad est&aacute; aqu&iacute;, lo que significa que ahora es el momento de la gratitud. Aqu&iacute; en Trinity Real Estate, estamos muy agradecidos. 2019 fue un a&ntilde;o dif&iacute;cil en Nicaragua, pero tenemos muchas bendiciones por las cuales estamos agradecidos.
 
