@@ -19,6 +19,6 @@ youtube_code: _42AnC_Txq8
 
 {% include youtube.html %}
 
-El m&aacute;s impresionante de esta casa exclusiva de San Juan del Sur no es la casa, es la vista.
+<p style="text-align:center;><em>El m&aacute;s impresionante de esta casa exclusiva de San Juan del Sur no es la casa, es la vista.</em></p>
 
 Hoy le mostramos una de nuestras propiedades exclusivas aqu&iacute; en San Juan del Sur. Aunque esta es una hermosa propiedad de 4 dormitorios y 4 ba&ntilde;os, de casi 500 metros cuadrados, lo m&aacute;s impresionante es su impresionante vista de San Juan del Sur. Para ver un recorrido de primera mano por esta hermosa propiedad, mira nuestro &uacute;ltimo video.
