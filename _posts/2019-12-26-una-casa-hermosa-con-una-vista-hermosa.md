@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Una Casa Hermosa con una Vista Hermosa
-date:
+date: 2019-12-26 21:06:59
 tags:
   - Bienes Raíces
 excerpt: >-
