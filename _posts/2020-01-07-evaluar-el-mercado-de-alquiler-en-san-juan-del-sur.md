@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Evaluar el mercado de alquiler en San Juan del Sur
-date:
+date: 2020-01-07 22:37:53
 tags:
   - Bienes Raíces
 excerpt: >-
