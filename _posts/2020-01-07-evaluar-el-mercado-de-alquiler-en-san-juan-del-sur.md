@@ -20,7 +20,7 @@ youtube_code: wbkvm-BRQlY
 
 {% include youtube.html %}
 
-Laura Taylor-Johnson se une a m&iacute; hoy para compartir su opini&oacute;n sobre el mercado de alquiler de San Juan del Sur.
+<p style = "text-align:center;"><em>Laura Taylor-Johnson se une a m&iacute; hoy para compartir su opini&oacute;n sobre el mercado de alquiler de San Juan del Sur.</em></p>
 
 &iquest;C&oacute;mo est&aacute; el mercado de alquiler en San Juan del Sur? Para responder a esa pregunta, invit&eacute; a Laura Taylor-Johnson, directora de Selva Pacifica, a que se uniera a m&iacute; para el video de hoy.
 
