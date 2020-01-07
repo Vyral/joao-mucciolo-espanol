@@ -9,7 +9,7 @@ excerpt: >-
   mercado de alquiler de San Juan del Sur.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Evaluar+el+mercado+de+alquiler+en+San+Juan+del+Sur.mp4
-pullquote: Lo que lo diferenciará es la calidad de su hogar.
+pullquote: Lo que va a ponerse encima de la competicion es la calidad de la casa 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -36,7 +36,7 @@ Laura dice que el mercado de alquileres comenz&oacute; lentamente a principios d
 
 Si est&aacute; pensando en comprar un alquiler de lujo (o si ya posee uno que no ha tenido mucho &eacute;xito), el primer consejo de Laura es **comunicarse con un profesional para que lo ayude.** Comenzar en un mercado saturado como San Juan del Sur no ser&aacute; f&aacute;cil si no tienes un profesional a tu lado. Si contactas a Selva Pacifica, ellos visitar&aacute;n tu hogar y discutir&aacute;n tus objetivos contigo.
 
-Con tantas casas de alquiler en el mercado, **ella tambi&eacute;n aconseja diferenciar su hogar.** Cada alquiler en San Juan del Sur tiene una vista; eso no te diferenciar&aacute; en este mercado. Lo que lo diferenciar&aacute; es la calidad de su hogar. Debe asegurarse de que est&eacute; bien mantenido y que evoque su estilo personal. Si tiene una bonita casa con vista pero no le pone cari&ntilde;o y cuidado, no ver&aacute; un retorno de su inversi&oacute;n.
+Con tantas casas de alquiler en el mercado, **ella tambi&eacute;n aconseja diferenciar su hogar.** Cada alquiler en San Juan del Sur tiene una vista; eso no te diferenciar&aacute; en este mercado. Lo que va a ponerse encima de la competicion es la calidad de la casa. Debe asegurarse de que est&eacute; bien mantenido y que evoque su estilo personal. Si tiene una bonita casa con vista pero no le pone cari&ntilde;o y cuidado, no ver&aacute; un retorno de su inversi&oacute;n.
 
 Si tiene alguna pregunta para Laura, puede enviarle un correo electr&oacute;nico a selvapacifica@icloud.com. Si desea saber m&aacute;s sobre Selva Pacifica, no dude en visitar su sitio web selvapacifica.com.
 
