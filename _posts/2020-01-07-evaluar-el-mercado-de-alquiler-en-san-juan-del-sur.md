@@ -15,7 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/joao-mucciolo---evaluación-del-mercado-de-alquiler-de-san-juan-del-sur-youtube.jpg
-youtube_code: wbkvm-BRQlY
+youtube_code: cmL3kmsK_Cw
 ---
 
 {% include youtube.html %}
