@@ -7,13 +7,13 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Trinity Real Estate - your professional San Juan del Sur Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Joao Mucciolo</managingEditor>
-    <lastBuildDate>2019-10-21 15:39:29 -0500</lastBuildDate>
+    <lastBuildDate>2020-01-16 14:02:03 -0600</lastBuildDate>
     <media:copyright>Joao Mucciolo</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Juan del Sur, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email>joao.mucciolo@kwnicaragua.com</itunes:email>
+      <itunes:email>Joao@trinityrealestatenicaragua.com</itunes:email>
       <itunes:name>Joao Mucciolo</itunes:name>
     </itunes:owner>
     <itunes:author>Joao Mucciolo</itunes:author>
@@ -24,6 +24,300 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Trinity Real Estate - your professional San Juan del Sur Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>Evaluacion del Mercado de Alquileres en San Juan del Sur</title>
+        <link>http://localhost:4000/evaluacion-del-mercado-de-alquileres-en-san-juan-del-sur.html</link>
+        
+          <category>Bienes Raíces</category>
+        
+        <author>Joao Mucciolo</author>
+        <pubDate>2020-01-07 16:37:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Evaluar+el+mercado+de+alquiler+en+San+Juan+del+Sur.mp4</guid>
+        <description>
+
+Laura Taylor-Johnson se une a m&iacute; hoy para compartir su opini&oacute;n sobre el mercado de alquileres de San Juan del Sur.
+
+¿Cómo está el mercado de alquileres en San Juan del Sur? Para responder a esa pregunta, invité a Laura Taylor-Johnson, directora de Selva Pacifica, a que se uniera a mí para el video de hoy.
+
+Originaria de Canadá, Laura ha estado viniendo a Nicaragua durante los ultimos 12 años, y 10 de ellos para construir su próspero negocio de alquileres de lujo. Además, recientemente fue nombrada la principal anfitriona de Airbnb en el país por Airbnb, Inc., y actualmente está trabajando junto con ellos para aumentar la visibilidad de Nicaragua a los posibles viajeros.
+
+¿Qué hace Selva Pacifica? Cuando Laura comenzó a recolectar casas en alquiler hace 10 años, se dio cuenta de que no había un servicio de conserjería dedicado en el área. Así nació Selva Pacifica, quienes ayudan a los propietarios con sus alquileres. Como se indicó anteriormente, trabajan específicamente con casas de alta gama en ubicaciones increíbles. No solo trabajan con los propietarios para asegurarse de obtener los mejores huéspedes, sino que también trabajan con los viajeros para asegurarse de obtener las mejores casas.
+
+“Lo que va a ponerse encima de la competencia es la calidad de la casa.”
+
+Además de eso, manejan toda la publicidad y el marketing de sus propiedades, y tienen un equipo dedicado a mostrar a los huéspedes el mejor lado de San Juan del Sur. Cuando los invitados se van, hacen un seguimiento con ellos para que los propietarios tengan muchas reseñas de cinco estrellas para ayudar a la exposición y la rentabilidad de sus inversiones. Actualmente tienen 506 reseñas de cinco estrellas.
+
+Laura dice que el mercado de alquileres comenzó lentamente a principios del año pasado, pero después de eso, vimos un aumento progresivo de turistas y alquileres de casas. El último trimestre, la ocupación promedió más del 60% en la mayoría de las casas de Selva Pacifica. Muchas de sus casas no solo cubrieron sus costos, sino que también obtuvieron una buena ganancia en 2020.
+
+Si está pensando en comprar una casa para alquilarla (o si ya posee una que no ha tenido mucho éxito), el primer consejo de Laura es comunicarse con un profesional para que lo ayude. Comenzar en un mercado saturado como el de San Juan del Sur no será fácil si no tienes un profesional a tu lado. Si contactas a Selva Pacifica, ellos visitarán tu hogar y discutirán tus objetivos contigo.
+
+Con tantas casas de alquiler en el mercado, ella también aconseja diferenciar su hogar. Cada alquiler en San Juan del Sur tiene una vista; eso no te diferenciará en este mercado. Lo que va a ponerse encima de la competencia es la calidad de la casa. Debe asegurarse de que esté bien mantenida y que evoque su estilo personal. Si tiene una casa bonita y con vista pero no le pone cariño y cuidado, no verá un retorno de su inversión.
+
+Si tiene alguna pregunta para Laura, puede enviarle un correo electrónico a selvapacifica@icloud.com. Si desea saber más sobre Selva Pacifica, no dude en visitar su sitio web selvapacifica.com.
+
+Como siempre, si tiene alguna pregunta sobre bienes raíces para mí, no dude en llamarme o enviarme un correo electrónico. Me encantaría ayudarte.
+
+ 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Evaluar+el+mercado+de+alquiler+en+San+Juan+del+Sur.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Evaluar+el+mercado+de+alquiler+en+San+Juan+del+Sur.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Laura Taylor-Johnson se une a mí hoy para compartir su opinión sobre el mercado de alquileres de San Juan del Sur.</itunes:subtitle>
+        <itunes:author>Joao Mucciolo</itunes:author>
+        <itunes:summary>Laura Taylor-Johnson se une a mí hoy para compartir su opinión sobre el mercado de alquileres de San Juan del Sur.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Juan del Sur, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Una Casa Hermosa con una Vista Hermosa</title>
+        <link>http://localhost:4000/una-casa-hermosa-con-una-vista-hermosa.html</link>
+        
+          <category>Bienes Raíces</category>
+        
+        <author>Joao Mucciolo</author>
+        <pubDate>2019-12-26 15:06:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Una+Casa+Hermosa+con+una+Vista+Hermosa.mp4</guid>
+        <description>
+
+Lo m&aacute;s impresionante de esta casa exclusiva de San Juan del Sur no es tanto la casa, si no la vista.
+
+Hoy le mostramos una de nuestras propiedades exclusivas aquí en San Juan del Sur. Aunque esta es una hermosa propiedad de 4 dormitorios y 4 baños, de casi 500 metros cuadrados, lo más impresionante es su increible vista de San Juan del Sur. Para ver un recorrido de primera mano por esta hermosa propiedad, mira nuestro último video.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Una+Casa+Hermosa+con+una+Vista+Hermosa.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Una+Casa+Hermosa+con+una+Vista+Hermosa.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>El más impresionante de esta casa exclusiva de San Juan del Sur no es la casa, es la vista.</itunes:subtitle>
+        <itunes:author>Joao Mucciolo</itunes:author>
+        <itunes:summary>El más impresionante de esta casa exclusiva de San Juan del Sur no es la casa, es la vista.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Juan del Sur, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Un Mensaje Especial de Navidad de Nuestra Familia a la Tuya</title>
+        <link>http://localhost:4000/un-mensaje-especial-de-navidad-de-nuestra-familia-a-la-tuya.html</link>
+        
+          <category>Articulos</category>
+        
+        <author>Joao Mucciolo</author>
+        <pubDate>2019-12-17 11:48:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Un+Mensaje+Especial+de+Navidad+de+Nuestra+Familia+a+la+Tuya.mp4</guid>
+        <description>
+
+A la luz de la temporada navide&ntilde;a, queremos compartir de lo que estamos agradecidos.
+
+La Navidad está aquí, y significa que ahora es el momento de gratitud. Aquí en Trinity Real Estate estamos muy agradecidos. 2019 fue un año difícil en Nicaragua, pero tenemos muchas bendiciones por las cuales estamos agradecidos.
+
+Primero, agregamos tres grandes personas a nuestro equipo: Nancy, Gary y Daphnee. Queremos agradecerles especialmente por unirse a nosotros. También estamos agradecidos por todas las familias e inversores que nos permitieron atenderlos.
+
+“Aquí en Trinity Real Estate, estamos muy agradecidos.”
+
+En una nota personal, estoy agradecido por mi familia. Cada vez que regreso a casa, me esperan con los brazos abiertos, listos para apoyarme.
+
+También estoy agradecido de haber cumplido nuestra promesa de donar el 10% de nuestro volumen de ventas a varias instituciones que necesitan nuestra ayuda. Por ejemplo, pudimos donar una suma importante a la escuela San Juan del Sur Day School para que pudieran otorgar becas a niños en San Juan del Sur y ayudarlos a obtener una mejor educación. También ayudamos a un joven profesional a obtener su maestría. Además, pudimos ayudar a la Iglesia Católica, lo cual es muy importante para nosotros.
+
+Por último, quiero agradecerles por su apoyo. Si tienen alguna pregunta sobre bienes raíces o hay algo con lo que mi equipo y yo podamos ayudarlos, no duden en llamarnos. De nuestra familia a la tuya, Feliz Navidad!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Un+Mensaje+Especial+de+Navidad+de+Nuestra+Familia+a+la+Tuya.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Un+Mensaje+Especial+de+Navidad+de+Nuestra+Familia+a+la+Tuya.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>A la luz de la temporada navideña, queremos compartir de lo que estamos agradecidos.</itunes:subtitle>
+        <itunes:author>Joao Mucciolo</itunes:author>
+        <itunes:summary>A la luz de la temporada navideña, queremos compartir de lo que estamos agradecidos.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Juan del Sur, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Lujo en Su Máxima Expresión</title>
+        <link>http://localhost:4000/lujo-en-su-m%C3%A1xima-expresi%C3%B3n.html</link>
+        
+          <category>Bienes Raíces</category>
+        
+        <author>Joao Mucciolo</author>
+        <pubDate>2019-12-13 14:11:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Exhibiendo+las+casas+exclusivas+de+Malibu+en+Pacific+Marlin.mp4</guid>
+        <description>
+
+Si est&aacute; buscando comprar o alquilar una casa de lujo, conozco el lugar perfecto: Malibu en Pacific Marlin.
+
+Hoy estoy destacando las propiedades exclusivas de Malibu en Pacific Marlin en San Juan del Sur. Se une a mí el desarrollador de propiedades, Lance Rader de Malibu Developments.
+
+Lance se mudó a Nicaragua hace unos 10 años, y su negocio principal es construir viviendas sociales en Managua. Según él, el desarrollo de Malibu originalmente comenzó como una casa de vacaciones para él. Miró varios lugares diferentes a lo largo de la costa del Pacífico antes de elegir San Juan del Sur para comenzar a construir.
+
+“Estaba buscando un lugar para construir una casa moderna con los estándares que estoy acostumbrado a construir y los estándares de los Estados Unidos”, dice. “Así es como surgió Malibu. Encontré una fabulosa extensión de tierra con vista al océano, a unos 30 pisos de altura, y ahí es donde está Malibu ahora.“
+
+“Cada casa viene completamente amueblada con electrodomésticos de primera línea y todos los artículos que los inquilinos necesitan.”
+
+Hay tres productos diferentes dentro de Malibu:
+
+
+  Casas unifamiliares de entre 3,000 y 4,000 pies cuadrados con tres y cuatro habitaciones con piscinas infinitas con vista al océano
+  Dúplex de 3 dormitorios / 3 baños, también con una piscina infinita con vista al océano
+  Townhomes de 3 habitaciones / 3 baños de aproximadamente 2,000 pies cuadrados con vista al valle y piscina comunitaria
+
+
+Malibú también ofrece un excelente programa de administración de alquileres que la mayoría de los propietarios usan. Cuentan con administración y personal para cuidar las propiedades, y son agresivos en el mercadeo de este programa: su tasa de ocupación es tan alta como 80%, dependiendo de la época del año. Cada casa viene completamente amueblada con electrodomésticos de primera línea y todos los artículos que los inquilinos necesitan. Sus muebles son de estilo contemporáneo de alta gama, tanto locales como importados de los EEUU.
+
+¿Cuál es la parte favorita de Lance en San Juan del Sur? Las mismas razones por las que eligió este lugar para construir en primer lugar: las playas, el clima y la fantástica vida nocturna.
+
+Si desea obtener más información sobre estas propiedades o si tiene otras necesidades inmobiliarias, no dude en comunicarse conmigo. Me encantaría hablar contigo.
+
+Mira nuestros listados favoritos en Malibu:
+
+
+  Casa Duplex en Malibú: 3 dormitorios, 3 baños 
+  Townhomes en residencia Malibú: 3 dormitorios, 3 baños
+  Residencia en Exclusivo Reparto cerrado Malibú: 4 dormitorios, 4 baños 
+  Casa disponible lujoso Reparto de Malibú: 4 dormitorios, 4 baños
+
+
+ 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Exhibiendo+las+casas+exclusivas+de+Malibu+en+Pacific+Marlin.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Exhibiendo+las+casas+exclusivas+de+Malibu+en+Pacific+Marlin.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Si está buscando comprar o alquilar una casa de lujo, conozco el lugar: Malibu en Pacific Marlin.</itunes:subtitle>
+        <itunes:author>Joao Mucciolo</itunes:author>
+        <itunes:summary>Si está buscando comprar o alquilar una casa de lujo, conozco el lugar: Malibu en Pacific Marlin.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Juan del Sur, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Por Que Mis Hijos asisten San Juan Del Sur Day School</title>
+        <link>http://localhost:4000/por-que-mis-hijos-asisten-san-juan-del-sure-day-school.html</link>
+        
+          <category>Articulos</category>
+        
+        <author>Joao Mucciolo</author>
+        <pubDate>2019-11-25 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/School+Video.mp4</guid>
+        <description>
+
+Hoy estoy entrevistando a la fundadora y directora de San Juan Del Sur Day School para mostrarles por qu&eacute; es un lugar bueno para enviar a sus hijos.
+
+Hoy estoy entrevistando a Julie Speier, la fundadora y directora de la San Juan del Sur Day School. ¿Por qué? Porque cada vez que le digo a alguien que me mude a San Juan del Sur, me preguntan qué hago para educar a mis hijos. Esta escuela nos ha permitido vivir aquí y saber que nuestros hijos están recibiendo una excelente educación. Si desea información adicional sobre la escuela, puede visitar su sitio web aquí.
+
+A continuación, para su comodidad, les incluyo marcas de tiempo que lo dirigirán a varios puntos del video. Siéntase libre de ver el mensaje completo o use estas marcas de tiempo para explorar temas específicos a su gusto:
+
+0:00: Introducción al tema de hoy
+
+0:35: Presentación de Julie Speier, fundadora y directora de la San Juan del Sur Day School
+
+0:55: Cómo comenzó la escuela
+
+2:05: Estadísticas sobre los estudiantes en la escuela
+
+3:00: Sobre los profesores
+
+3:40: La filosofía de enseñanza en la escuela
+
+5:25: El futuro de la San Juan del Sur Day School
+
+6:05: Terminando el tema de hoy
+
+Nos encanta enviar a nuestros hijos a San Juan del Sur Day School, y espero que hayan aprendido un poco más al respecto. Si tiene alguna pregunta sobre bienes raíces, llámeme o envíeme un correo electrónico. Me encantaría ayudarte.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/School+Video.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/School+Video.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Hoy estoy entrevistando al fundador y director de la San Juan Del Sure Day School para mostrarles por qué es un lugar tan bueno para enviar a sus hijos.</itunes:subtitle>
+        <itunes:author>Joao Mucciolo</itunes:author>
+        <itunes:summary>Hoy estoy entrevistando al fundador y director de la San Juan Del Sure Day School para mostrarles por qué es un lugar tan bueno para enviar a sus hijos.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Juan del Sur, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>10 razones que nos gusta vivir en San Juan del sur</title>
+        <link>http://localhost:4000/10-razones-que-nos-gusta-vivir-en-san-juan-del-sur.html</link>
+        
+          <category>Bienes Raíces</category>
+        
+        <author>Joao Mucciolo</author>
+        <pubDate>2019-11-14 10:39:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/10+razones+que+nos+gusta+vivir+en+San+Juan+del+sur.mp4</guid>
+        <description>
+
+Hoy me acompa&ntilde;a una invitada especial, Ver&oacute;nica mi esposa, para compartirles las 10 razones del porque nos encanta vivir en San Juan del Sur.
+
+A mi esposa Verónica y a mi nos encanta vivir en San Juan del Sur. Aquí las 10 razones principales del porque y por qué a usted le encantaría también:
+
+Tiempo familiar. San Juan del Sur es un pequeño pueblo que es muy atractivo para las familias y estamos rodeados de  playas
+
+Bienestar. Si te gusta la vida sana, te encantará San Juan del Sur: hay muchas oportunidades para hacer yoga y hay frutas frescas y saludables disponibles todo el tiempo.
+
+Surf. Tenemos la bendición de vivir cerca de tantas playas como El Remanso, Hermosa, Yankee, Maderas y más. Hay excelente viento y olas casi todo el año.
+
+Escuelas. Los niños pueden asistir a la escuela en “San Juan del Sur day school”. Es un gran lugar donde los niños pueden ser ellos mismos, juegan en la naturaleza, aprenden y se divierten al mismo tiempo.
+
+“Con el océano a un lado y árboles hermosos al otro, San Juan es un gran lugar para tomar el sol.”
+
+Tiempo en la playa. La playa está prácticamente en nuestro patio trasero. Playa Majahual es nuestra favorita: hay mucho espacio para que jueguen los niños y generalmente no hay mucha gente alrededor.
+
+Conocer gente nueva. Nos encanta conocer nuevas personas que viajan a San Juan de vacaciones o que viven cerca. Siempre tienen una historia que contar.
+
+La vida de una ciudad pequeña. No hay tráfico, ni semáforos. Y hay muchas comidas deliciosas hechas por la gente local como pan de coco, picos, jugos y otras delicias orgánicas.
+
+Económico Vivir. Nicaragua es muy barato y San Juan es aún más barato.
+
+Disfrutando de las vistas. A veces nos gusta quedarnos en casa y no hay mejor lugar para hacerlo que en una casa con una vista fantástica.
+
+Inmersión en la naturaleza. Con el océano a un lado y árboles hermosos al otro, San Juan es un gran lugar para tomar el sol. Se pueden ver monos y otros animales con frecuencia y por la noche, las estrellas no se ven atenuadas por las luces de la ciudad.
+
+Como puede ver, hay muchas razones para disfrutar la vida en San Juan del Sur. Si tienen alguna pregunta para nosotros, no dude en comunicarse. Estaremos encantados de compartir cualquier información que podamos con usted.
+
+ 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/10+razones+que+nos+gusta+vivir+en+San+Juan+del+sur.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/10+razones+que+nos+gusta+vivir+en+San+Juan+del+sur.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Hoy, me acompaña una invitada especial, Verónica, mi esposa, para compartir 10 razones por que nos encanta vivir en San Juan del Sur.</itunes:subtitle>
+        <itunes:author>Joao Mucciolo</itunes:author>
+        <itunes:summary>Hoy, me acompaña una invitada especial, Verónica, mi esposa, para compartir 10 razones por que nos encanta vivir en San Juan del Sur.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Juan del Sur, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>¿Cómo esta el Mercado Bienes Raíces de San Juan del Sur y Tola?</title>
+        <link>http://localhost:4000/c%C3%B3mo-esta-el-mercado-bienes-ra%C3%ADces-de-san-juan-del-sur-y-tola.html</link>
+        
+          <category>Actualización del Mercado</category>
+        
+        <author>Joao Mucciolo</author>
+        <pubDate>2019-10-28 10:44:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Como+es+el+Estado+del+Mercado+Bienes+Raices+de+San+Juan+del+Sur_+(1).mp4</guid>
+        <description>
+
+Aunque nuestro pa&iacute;s est&aacute; pasando por momentos dif&iacute;ciles, nuestro mercado de bienes ra&iacute;ces sigue siendo bastante activo. Estas son algunas de las &uacute;ltimas tendencias.
+
+Nicaragua está pasando por momentos difíciles e inciertos en este momento, pero eso no significa que nuestro mercado de bienes raíces haya estado inactivo. Por el contrario, ha estado bastante activo.
+
+Todos los vendedores que han estado dispuestos a reducir sus precios han podido vender sus propiedades. Definitivamente estamos en un mercado de compradores, pero no hay un montón de compradores por ahí, por lo tanto es necesario una reducción de precios para lograr un posible acuerdo
+
+Estamos viendo una mezcla de compras de lotes, casas y condominios. Ninguno de estos es más popular que el otro. Mientras los precios estén de acuerdo con el nivel de riesgo que asume el inversor que compra el inmueble, es posible la venta.
+
+“Estamos viendo una mezcla de compras de lotes, casas y condominios.”
+
+El mercado de alquiler también ha estado bastante activo. La mayoría de los inversores han tenido que reducir su precio de renta para poder alquilar y asi cubrir costos y muchas veces ver números de flujo de caja positivos.
+
+Si tiene alguna pregunta para mí sobre el mercado de bienes raíces o sobre bienes raíces en general, no dude en comunicarse y llamarme o enviarme un correo electrónico. Espero con interés escuchar de usted pronto.
+
+ 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Como+es+el+Estado+del+Mercado+Bienes+Raices+de+San+Juan+del+Sur_+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Como+es+el+Estado+del+Mercado+Bienes+Raices+de+San+Juan+del+Sur_+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Aunque nuestro país está pasando por momentos difíciles, nuestro mercado de bienes raíces sigue siendo bastante activo. Estas son algunas de las últimas tendencias.</itunes:subtitle>
+        <itunes:author>Joao Mucciolo</itunes:author>
+        <itunes:summary>Aunque nuestro país está pasando por momentos difíciles, nuestro mercado de bienes raíces sigue siendo bastante activo. Estas son algunas de las últimas tendencias.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Juan del Sur, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>Cosas que deberias de experimentar en San Juan del Sur</title>
         <link>http://localhost:4000/cosas-que-deberias-de-experimentar-en-san-juan-del-sur.html</link>
@@ -366,43 +660,58 @@ Seria un gusto para nosotros que nos vengas a visitar en San Juan del Sur. Mi fa
       </item>
       
       <item>
-        <title>Este es un post de prueba</title>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Actualización del Mercado</category>
+        <title>Lujo en Su Máxima Expresión</title>
+        <link>http://localhost:4000/casas-exclusivas-de-malibu-homas-en-pacific-marlin.html</link>
         
           <category>Bienes Raíces</category>
         
-          <category>Consejos para Vendedores de Propiedad</category>
-        
-          <category>Articulos</category>
-        
         <author>Joao Mucciolo</author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2019-01-03 14:11:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Exhibiendo+las+casas+exclusivas+de+Malibu+en+Pacific+Marlin.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Si est&aacute; buscando comprar o alquilar una casa de lujo, conozco el lugar perfecto: Malibu en Pacific Marlin.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Hoy estoy destacando las propiedades exclusivas de Malibu en Pacific Marlin en San Juan del Sur. Se une a mí el desarrollador de propiedades, Lance Rader de Malibu Developments.
+
+Lance se mudó a Nicaragua hace unos 10 años, y su negocio principal es construir viviendas sociales en Managua. Según él, el desarrollo de Malibu originalmente comenzó como una casa de vacaciones para él. Miró varios lugares diferentes a lo largo de la costa del Pacífico antes de elegir San Juan del Sur para comenzar a construir.
+
+“Estaba buscando un lugar para construir una casa moderna con los estándares que estoy acostumbrado a construir y los estándares de los Estados Unidos”, dice. “Así es como surgió Malibu. Encontré una fabulosa extensión de tierra con vista al océano, a unos 30 pisos de altura, y ahí es donde está Malibu ahora.“
+
+“Cada casa viene completamente amueblada con electrodomésticos de primera línea y todos los artículos que los inquilinos necesitan.”
+
+Hay tres productos diferentes dentro de Malibu:
 
 
+  Casas unifamiliares de entre 3,000 y 4,000 pies cuadrados con tres y cuatro habitaciones con piscinas infinitas con vista al océano
+  Dúplex de 3 dormitorios / 3 baños, también con una piscina infinita con vista al océano
+  Townhomes de 3 habitaciones / 3 baños de aproximadamente 2,000 pies cuadrados con vista al valle y piscina comunitaria
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
 
-“This is an example of a pull quote”
+Malibú también ofrece un excelente programa de administración de alquileres que la mayoría de los propietarios usan. Cuentan con administración y personal para cuidar las propiedades, y son agresivos en el mercadeo de este programa: su tasa de ocupación es tan alta como 80%, dependiendo de la época del año. Cada casa viene completamente amueblada con electrodomésticos de primera línea y todos los artículos que los inquilinos necesitan. Sus muebles son de estilo contemporáneo de alta gama, tanto locales como importados de los EEUU.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+¿Cuál es la parte favorita de Lance en San Juan del Sur? Las mismas razones por las que eligió este lugar para construir en primer lugar: las playas, el clima y la fantástica vida nocturna.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Si desea obtener más información sobre estas propiedades o si tiene otras necesidades inmobiliarias, no dude en comunicarse conmigo. Me encantaría hablar contigo.
+
+Mira nuestros listados favoritos en Malibu:
+
+
+  Casa Duplex en Malibú: 3 dormitorios, 3 baños 
+  Townhomes en residencia Malibú: 3 dormitorios, 3 baños
+  Residencia en Exclusivo Reparto cerrado Malibú: 4 dormitorios, 4 baños 
+  Casa disponible lujoso Reparto de Malibú: 4 dormitorios, 4 baños
+
+
+ 
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Exhibiendo+las+casas+exclusivas+de+Malibu+en+Pacific+Marlin.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Exhibiendo+las+casas+exclusivas+de+Malibu+en+Pacific+Marlin.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Si está buscando comprar o alquilar una casa de lujo, conozco el lugar: Malibu en Pacific Marlin.</itunes:subtitle>
         <itunes:author>Joao Mucciolo</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Si está buscando comprar o alquilar una casa de lujo, conozco el lugar: Malibu en Pacific Marlin.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Juan del Sur, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       

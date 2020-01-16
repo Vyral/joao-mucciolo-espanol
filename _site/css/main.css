@@ -1084,6 +1084,10 @@ there.
   position: relative;
   display: inline-block; }
 
+#inline-drop {
+  letter-spacing: normal;
+  margin-top: 2px; }
+
 .dropdown-content {
   display: none;
   position: absolute;
@@ -1095,7 +1099,9 @@ there.
   background-color: #eee;
   text-decoration: none;
   display: block;
-  font-size: 17px; }
+  font-size: 17px;
+  padding: 15px;
+  border-bottom: 1px solid #ccc; }
 
 .dropdown:hover .dropdown-content {
   display: block; }
