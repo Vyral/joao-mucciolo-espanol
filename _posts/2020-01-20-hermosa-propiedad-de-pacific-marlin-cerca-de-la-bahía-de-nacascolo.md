@@ -5,7 +5,7 @@ date: 2020-01-20 16:54:00
 tags:
   - Bienes Raíces
 excerpt: >-
-  Estoy mostrando dentro de esta propiedad única de 600 metros cuadrados en
+  Estoy mostrando dentro de esta propiedad única de 620 metros cuadrados en
   Pacific Marlin.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Una+Propiedad+Hermosa+de+Pacific+Marlin+Cerca+de+la+Bahia+de+Nacascolo.mp4
