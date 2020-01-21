@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hermosa Propiedad de Pacific Marlin Cerca de la Bahía de Nacascolo
-date: 2020-01-20 16:54:17
+date: 2020-01-20 16:54:00
 tags:
   - Bienes Raíces
 excerpt: >-
@@ -20,6 +20,6 @@ youtube_code: _27AWy6O9Y0
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Estoy mostrando dentro de esta propiedad &uacute;nica de 620 metros cuadrados en Pacific Marlin.</em></p>
+*Estoy mostrando dentro de esta propiedad &uacute;nica de 620 metros cuadrados en Pacific Marlin.*
 
-Hoy presentamos una hermosa propiedad en Pacific Marlin con una vista incre&iacute;ble de la Bah&iacute;a de Nacascolo que tambi&eacute;n cuenta con m&aacute;s de 600 metros cuadrados de construcci&oacute;n, una lujosa piscina y cinco habitaciones. Un recorrido inmersivo de la propiedad comienza a las 2:13 en el video de arriba. Como siempre, si tiene alguna pregunta relacionada con bienes ra&iacute;ces o desea comprar o vender una casa, comun&iacute;quese con nosotros por tel&eacute;fono o correo electr&oacute;nico. El equipo de Trinity Real Estate se complace en ayudarlo a hacer realidad sus sue&ntilde;os inmobiliarios.
+Hoy presentamos una hermosa propiedad en Pacific Marlin con una vista incre&iacute;ble de la Bah&iacute;a de Nacascolo que tambi&eacute;n cuenta con m&aacute;s de 600 metros cuadrados de construcci&oacute;n, una lujosa piscina y cinco habitaciones. Un recorrido inmersivo de la propiedad comienza en el video de arriba. Como siempre, si tiene alguna pregunta relacionada con bienes ra&iacute;ces o desea comprar o vender una casa, comun&iacute;quese con nosotros por tel&eacute;fono o correo electr&oacute;nico. El equipo de Trinity Real Estate se complace en ayudarlo a hacer realidad sus sue&ntilde;os inmobiliarios.
