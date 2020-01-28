@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Esta casa viene con su propia piscina y cine
-date:
+date: 2020-01-28 22:19:05
 tags:
   - Bienes Raíces
 excerpt: Tengo otra casa fantástica en San Juan del Sur que me complace mostrarles hoy.
