@@ -18,7 +18,7 @@ youtube_code: q7HaptpYC_U
 
 {% include youtube.html %}
 
-Tengo otra casa fant&aacute;stica en San Juan del Sur que me complace mostrarles hoy.
+<p style="text-align: center;"><em>Tengo otra casa fant&aacute;stica en San Juan del Sur que me complace mostrarles hoy.</em></p>
 
 En la parte inferior de Pacific Marlin se encuentra una propiedad maravillosa que me complace ofrecerle una vista previa exclusiva de hoy. Cuenta con siete habitaciones, una sala de cine, piscina privada, &iexcl;y est&aacute; a solo unos pasos de la bah&iacute;a de San Juan del Sur\! Adem&aacute;s de eso, cuenta con una hermosa vista de la bah&iacute;a. Por $ 575,000, esta casa puede ser tuya.
 
