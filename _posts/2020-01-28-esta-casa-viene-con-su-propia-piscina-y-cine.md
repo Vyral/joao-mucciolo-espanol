@@ -25,4 +25,4 @@ En la parte inferior de Pacific Marlin se encuentra una propiedad maravillosa qu
 
 Si deseas obtener m&aacute;s informaci&oacute;n sobre esta propiedad o est&aacute;s interesado en comprar, no dudes en llamarme o enviarme un correo electr&oacute;nico. Me encantar&iacute;a hablar contigo.
 
-Mira el listado:
+Mira el listado:https: https://www.kwnicaragua.com/Detached-House-For-Sale-San-Juan-del-Sur-1082-760
