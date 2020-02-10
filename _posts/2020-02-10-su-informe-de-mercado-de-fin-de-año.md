@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Su informe de mercado de fin de año
-date:
+date: 2020-02-10 16:13:18
 tags:
   - Bienes Raíces
   - Actualización del Mercado
