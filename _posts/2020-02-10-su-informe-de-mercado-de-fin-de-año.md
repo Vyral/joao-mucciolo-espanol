@@ -27,11 +27,11 @@ En 2019, el Equipo Trinity vendi&oacute; 34 propiedades, representando 64 lados 
 
 El 60% de nuestras ventas fueron productos terminados, mientras que el 40% fueron lotes. Al considerar tanto las casas como los apartamentos, el precio promedio por metro cuadrado de nuestras ventas fue de $944. Mirando por separado las casas, el precio promedio por metro cuadrado fue de $951; los apartamentos promediaron $1,310.
 
-&iquest;Por qu&eacute; la diferencia? Bueno, los apartamentos tienen &aacute;reas comunes, pasillos, ascensores y estacionamientos, que cuentan para ese precio por metro cuadrado.
+&iquest;Por qu&eacute; la diferencia? Bueno, los condominios tienen &aacute;reas comunes, pasillos, ascensores y estacionamientos, que cuentan para ese precio por metro cuadrado.
 
-La mayor&iacute;a de nuestras propiedades se vendieron completamente amuebladas y llave en mano, en perfectas condiciones (o casi pr&iacute;stinas). El precio m&aacute;s alto para las casas fue de $ 102 por metro cuadrado, mientras que el m&aacute;s bajo fue de $ 70 por metro cuadrado. Para los apartamentos, el m&aacute;s alto fue de $ 137 por metro cuadrado, mientras que el m&aacute;s bajo fue de $ 102.
+La mayor&iacute;a de nuestras propiedades se vendieron completamente amuebladas y llave en mano, en perfectas condiciones (o casi pr&iacute;stinas). El precio m&aacute;s alto para las casas fue de $1,100 por metro cuadrado, mientras que el m&aacute;s bajo fue de $750 por metro cuadrado. Para los apartamentos, el m&aacute;s alto fue de $ 1,480 por metro cuadrado, mientras que el m&aacute;s bajo fue de $1,100.
 
-El precio promedio por metro cuadrado para lotes fue de $ 3.78. En el extremo superior, fue de $ 11.58; en el extremo inferior, fue de $ 1.17. El lote m&aacute;s alto estaba m&aacute;s cerca del agua (frente al acantilado con una vista fenomenal), y los m&aacute;s bajos estaban en &aacute;reas remotas lejos del agua y sin una vista notable.
+El precio promedio por metro cuadrado para terreno fue de $40. En el extremo superior, fue de $214; en el extremo inferior, fue de $12.58. El terreno m&aacute;s alto estaba m&aacute;s cerca del agua (frente al acantilado con una vista fenomenal), y los m&aacute;s bajos estaban en &aacute;reas remotas lejos del agua y sin una vista notable.
 
 {% include pullquote.html %}
 
