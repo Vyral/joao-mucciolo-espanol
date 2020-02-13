@@ -21,7 +21,7 @@ youtube_code: Jl4o7Deqd5A
 
 {% include youtube.html %}
 
-*Hoy estoy compartiendo un resumen del mercado de 2019 y discutiendo el impacto del turismo.*
+<p style="text-align: center;"><em>Hoy estoy compartiendo un resumen del mercado de 2019 y discutiendo el impacto del turismo.</em></p>
 
 En 2019, el Equipo Trinity vendi&oacute; 34 propiedades, representando 64 lados totales (compradores y vendedores). Para la mayor&iacute;a de esas transacciones, representamos a ambas partes al mismo tiempo, tanto compradores como vendedores.
 
