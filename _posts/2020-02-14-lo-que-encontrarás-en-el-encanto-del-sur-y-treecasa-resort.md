@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lo que encontrarás en El Encanto del Sur y TreeCasa Resort
-date:
+date: 2020-02-14 17:55:42
 tags:
   - Bienes Raíces
 excerpt: >-
