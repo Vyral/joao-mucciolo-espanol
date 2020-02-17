@@ -27,7 +27,19 @@ El Encanto Del Sur es uno de los principales desarrollos ecol&oacute;gicos en to
 
 A continuaci&oacute;n, para su comodidad, se incluyen marcas de tiempo que lo dirigir&aacute;n a varios puntos del video. Si&eacute;ntase libre de verlo en su totalidad o use estas marcas de tiempo para explorar puntos espec&iacute;ficos a su gusto:
 
-0: 38 — Las historia de Doug y Dhruv1:42: &iquest;Por qu&eacute; eligieron Nicaragua?2:15 - La visi&oacute;n detr&aacute;s de El Encanto Del Sur y TreeCasa Resort3:22: &iquest;C&oacute;mo fue invertir en Nicaragua como extranjeros?4: 23 — Planes futuros para El Encanto del Sur / lotes actuales disponibles y sus rangos de precios6: 22 — Planes futuros para TreeCasa Resort7: 59 — Terminando las cosas
+0: 38 — Las historia de Doug y Dhruv
+
+1:42: &iquest;Por qu&eacute; eligieron Nicaragua?
+
+2:15 - La visi&oacute;n detr&aacute;s de El Encanto Del Sur y TreeCasa Resort
+
+3:22: &iquest;C&oacute;mo fue invertir en Nicaragua como extranjeros?
+
+4: 23 — Planes futuros para El Encanto del Sur / lotes actuales disponibles y sus rangos de precios
+
+6: 22 — Planes futuros para TreeCasa Resort
+
+7: 59 — Terminando las cosas
 
 Si desea obtener m&aacute;s informaci&oacute;n sobre El Encanto Del Sur y TreeCasa Resort, puede visitar&nbsp;[elencantodelsur.com](https://elencantodelsur.com/){: target="_blank"}&nbsp;o [www.treecasaresort.com](https://www.treecasaresort.com/){: target="_blank"}. Si quieres mas informacion de las posibilidades de inversion y financiamiento de lotes y casas en El Encanto del Sur, por favor entra en contacto conmigo directamente.
 
