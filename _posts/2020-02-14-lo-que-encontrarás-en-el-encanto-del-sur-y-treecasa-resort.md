@@ -25,7 +25,7 @@ El Encanto Del Sur es uno de los principales desarrollos ecol&oacute;gicos en to
 
 &iquest;La mejor parte? El Encanto Del Sur tiene muchos lotes, casas y bungalows disponibles, y TreeCasa Resort est&aacute; abierto para reservas.
 
-A continuaci&oacute;n, para su comodidad, se incluyen marcas de tiempo que lo dirigir&aacute;n a varios puntos del video. Si&eacute;ntase libre de verlo en su totalidad o use estas marcas de tiempo para explorar puntos espec&iacute;ficos a su gusto:
+**A continuaci&oacute;n, para su comodidad, se incluyen marcas de tiempo que lo dirigir&aacute;n a varios puntos del video. Si&eacute;ntase libre de verlo en su totalidad o use estas marcas de tiempo para explorar puntos espec&iacute;ficos a su gusto:**
 
 0: 38 — Las historia de Doug y Dhruv
 
