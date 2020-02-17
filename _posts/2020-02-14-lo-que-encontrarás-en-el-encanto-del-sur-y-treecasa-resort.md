@@ -27,7 +27,7 @@ A continuaci&oacute;n, para su comodidad, se incluyen marcas de tiempo que lo di
 
 0: 38 — Las historias de fondo de Doug y Dhruv<br>1:42: &iquest;Por qu&eacute; eligieron Nicaragua?<br>2:15 - La visi&oacute;n detr&aacute;s de El Encanto Del Sur y TreeCasa Resort<br>3:22: &iquest;C&oacute;mo fue invertir en Nicaragua como extranjeros?<br>4: 23 — Planes futuros para El Encanto del Sur / lotes actuales disponibles y sus rangos de precios<br>6: 22 — Planes futuros para TreeCasa Resort<br>7: 59 — Terminando las cosas
 
-Si desea obtener m&aacute;s informaci&oacute;n sobre El Encanto Del Sur y TreeCasa Resort, puede visitar elencantodelsur.com o treecasaresort.com.
+Si desea obtener m&aacute;s informaci&oacute;n sobre El Encanto Del Sur y TreeCasa Resort, puede visitar [elencantodelsur.com](elencantodelsur.com){: target="_blank"} o t[reecasaresort.com](reecasaresort.com){: target="_blank"}.
 
 Como siempre, si tiene alguna otra pregunta sobre bienes ra&iacute;ces o est&aacute; pensando en comprar o vender una casa pronto, no dude en comunicarse conmigo. Estar&eacute; encantado de ayudarte.
 
