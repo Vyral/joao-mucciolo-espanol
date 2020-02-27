@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Disfrute de comida fresca y festividades en el mercado de agricultores
-date: 2020-02-27 22:36:08
+date: 2020-02-27 22:36:00
 tags:
   - Articulos
 excerpt:
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Disfrute+de+comida+fresca+y+festividades+en+el+mercado+de+agricultores.mp4
 pullquote: >-
   El mercado local de San Juan del Sur tiene una rica variedad de alimentos y
   productos de origen local.
@@ -14,7 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/joao---echa-un-vistazo-al-mercado-de-productores-de-san-juan-del-sur-youtube.jpg
-youtube_code:
+youtube_code: pH5DnhhW2vk
 ---
 
 {% include youtube.html %}
