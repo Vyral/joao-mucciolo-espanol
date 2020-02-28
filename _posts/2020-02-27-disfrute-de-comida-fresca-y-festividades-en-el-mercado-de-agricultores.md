@@ -4,7 +4,9 @@ title: Disfrute de comida fresca y festividades en el mercado de agricultores
 date: 2020-02-27 22:36:00
 tags:
   - Articulos
-excerpt:
+excerpt: >-
+  Desde panes ricos hasta carne de cerdo sabrosa, esto es lo que el mercado de
+  granjeros de San Juan del Sur tiene para ofrecer.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Disfrute+de+comida+fresca+y+festividades+en+el+mercado+de+agricultores.mp4
 pullquote: >-
