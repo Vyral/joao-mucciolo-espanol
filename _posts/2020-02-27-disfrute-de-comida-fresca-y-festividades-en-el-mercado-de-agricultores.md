@@ -22,7 +22,7 @@ youtube_code: pH5DnhhW2vk
 
 {% include youtube.html %}
 
-*Desde panes ricos hasta carne de cerdo sabrosa, esto es lo que el mercado de granjeros de San Juan del Sur tiene para ofrecer.*
+<p style="text-align: center;"><em>Desde panes ricos hasta carne de cerdo sabrosa, esto es lo que el mercado de granjeros de San Juan del Sur tiene para ofrecer.</em></p>
 
 &iexcl;Hoy estamos explorando el mercado de agricultores en San Juan del Sur\! Cada semana, los productores locales y algunos expatriados se unen en un solo espacio para vender productos org&aacute;nicos de origen local.
 
