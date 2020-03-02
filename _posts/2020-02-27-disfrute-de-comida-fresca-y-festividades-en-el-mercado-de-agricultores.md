@@ -22,7 +22,7 @@ youtube_code: pH5DnhhW2vk
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Desde panes ricos hasta carne de cerdo sabrosa, esto es lo que el mercado de granjeros de San Juan del Sur tiene para ofrecer.</em></p>
+*Desde panes ricos hasta carne de cerdo sabrosa, esto es lo que el mercado de granjeros de San Juan del Sur tiene para ofrecer.*
 
 &iexcl;Hoy estamos explorando el mercado de agricultores en San Juan del Sur\! Cada semana, los productores locales y algunos expatriados se unen en un solo espacio para vender productos org&aacute;nicos de origen local.
 
@@ -32,7 +32,7 @@ A las 3:04 en el video, mira mi entrevista con Mark, quien muestra su delicioso 
 
 {% include pullquote.html %}
 
-Adem&aacute;s de vender en el mercado de agricultores, Mark y su equipo tambi&eacute;n atienden bodas y fiestas, incluidos dos eventos en la embajada de EE. UU. En Managua. Merlinda y Mark son solo dos de los vendedores fenomenales cuyos productos se pueden probar y comprar semanalmente en este querido establecimiento comunitario.
+Adem&aacute;s de vender en el mercado de agricultores, Mark y su equipo tambi&eacute;n atienden bodas y fiestas, incluidos dos eventos en la embajada de EE. UU. en Managua. Merlinda y Mark son solo dos de los vendedores fenomenales cuyos productos se pueden probar y comprar semanalmente en este querido establecimiento comunitario.
 
 El mercado se celebra todos los s&aacute;bados de 9 a.m. a 12 p.m. en Big Wave Dave’s.
 
