@@ -16,14 +16,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
-  /uploads/joao---echa-un-vistazo-al-mercado-de-productores-de-san-juan-del-sur-youtube.jpg
+  /uploads/joao---echa-un-vistazo-al-mercado-de-productores-de-san-juan-del-sur-youtube-1.jpg
 youtube_code: L8CnQdxd8Wo
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Desde panes ricos hasta carne de cerdo sabrosa, esto es lo que el Farmers Market de San Juan del Sur tiene para ofrecer.</em></p>
-
+*Desde panes ricos hasta carne de cerdo sabrosa, esto es lo que el Farmers Market de San Juan del Sur tiene para ofrecer.*
 
 &iexcl;Hoy estamos explorando el farmers market en San Juan del Sur\! Cada semana, los productores locales y algunos expatriados se unen en un solo espacio para vender productos org&aacute;nicos de origen local.
 
