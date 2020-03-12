@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Have You Been to Fight Club Gym?
+title: ¿Has estado en Fight Club Gym?
 date: 2020-03-12 21:28:00
 tags:
   - Articles
