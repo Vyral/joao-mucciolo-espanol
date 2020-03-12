@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have You Been to Fight Club Gym?
-date:
+date: 2020-03-12 21:36:59
 tags:
   - Articulos
 excerpt: >-
