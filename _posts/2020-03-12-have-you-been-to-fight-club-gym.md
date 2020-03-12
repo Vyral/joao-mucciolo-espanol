@@ -20,20 +20,20 @@ youtube_code: 1PJx9hNGzNo
 
 <p style="text-align: center;"><em>Fight Club Gym es un gran negocio local aquí en San Juan del Sur, y hoy el centro de atención está en ellos.</em></p>
 
-Today we’re showcasing a local San Juan del Sur business that was started by an expat from Hawaii. Justin Williams is the man behind Fight Club Gym, and we caught up with him recently to learn more about what brought him here to Nicaragua and what his gym offers to those who choose to call it home.
+Hoy presentamos un negocio local de San Juan del Sur que inició un expatriado de Hawai. Justin Williams es el hombre detrás del gimnasio Fight Club Gym, y lo encontramos recientemente para conocer más sobre lo que lo trajo aquí a Nicaragua y lo que su gimnasio ofrece a quienes eligen llamarlo hogar.
 
-**Here’s an outline of our full discussion with timestamps so that you can skip around to the section(s) that interest you most:**
+***Aquí hay un resumen de nuestra discusión completa con marcas de tiempo para que pueda saltar a las secciones que más le interesan:***
 
-0:55- What brought Justin Williams and his wife to Nicaragua to open this gym?
+0: 55- ¿Qué trajo a Justin Williams y su esposa a Nicaragua para abrir este gimnasio?
 
-1:56- Justin’s experience as a business owner and expat living in Nicaragua
+1:56 - La experiencia de Justin como dueño de un negocio y expatriado viviendo en Nicaragua
 
-2:55- What has Justin’s experience been like working and investing in this country?
+2: 55- ¿Cómo ha sido la experiencia de Justin trabajando e invirtiendo en este país?
 
-3:45- Learning more about the gym, the classes they offer, and the kind of clients they attract
+3: 45- Aprender más sobre el gimnasio, las clases que ofrecen y el tipo de clientes que atraen.
 
-5:50- Justin’s favorite thing to do in San Juan del Sur
+5: 50- La actividad favorita de Justin en San Juan del Sur
 
-Thanks so much to Justin for taking the time out of his busy schedule to speak with us. If you’re looking for a place to work out and get in shape here in San Juan del Sur, look no further than Fight Club Gym. You can learn more about them here on their [website](http://fightclubgymsjds.com/){: target="_blank"}, their[Instagram](https://www.instagram.com/fightclubgym_sjds/), or their [Facebook](https://www.facebook.com/GymSJDS/) page.
+Muchas gracias a Justin por tomarse el tiempo de su apretada agenda para hablar con nosotros. Si estás buscando un lugar para hacer ejercicio y ponerte en forma aquí en San Juan del Sur, no busques más que el gimnasio Fight Club. Puede obtener más información sobre ellos aquí en su sitio [web](http://fightclubgymsjds.com/){: target="_blank"}, su [Instagram](https://www.instagram.com/fightclubgym_sjds/), o su página de [Facebook](https://www.facebook.com/GymSJDS/) page.
 
-If you have any questions, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
+Si tiene alguna pregunta, no dude en comunicarse por teléfono o correo electrónico. Esperamos tener noticias suyas pronto.
