@@ -20,7 +20,7 @@ youtube_code: 1PJx9hNGzNo
 
 <p style="text-align: center;"><em>Fight Club Gym es un gran negocio local aquí en San Juan del Sur, y hoy el centro de atención está en ellos.</em></p>
 
-Hoy presentamos un negocio local de San Juan del Sur que inici&oacute; un expatriado de Hawai. Justin Williams es el hombre detr&aacute;s del gimnasio Fight Club Gym, y lo encontramos recientemente para conocer m&aacute;s sobre lo que lo trajo aqu&iacute; a Nicaragua y lo que su gimnasio ofrece a quienes eligen llamarlo hogar.
+Hoy presentamos un negocio local de San Juan del Sur que inició un expatriado de Hawai. Justin Williams es el hombre detrás del gimnasio Fight Club Gym, y lo encontramos recientemente para conocer más sobre lo que lo trajo aquí a Nicaragua y lo que su gimnasio ofrece.
 
 ***Aqu&iacute; hay un resumen de nuestra discusi&oacute;n completa con marcas de tiempo para que pueda saltar a las secciones que m&aacute;s le interesan:***
 
