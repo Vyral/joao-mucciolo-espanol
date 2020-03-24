@@ -11,7 +11,7 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/joao-mucciolo---march-2020---3---youtube.jpg
 youtube_code: swFusIEZTCQ
 ---
