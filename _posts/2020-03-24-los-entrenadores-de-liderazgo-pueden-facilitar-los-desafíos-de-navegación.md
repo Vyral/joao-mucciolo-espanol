@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Los entrenadores de liderazgo pueden facilitar los desafíos de navegación
-date:
+date: 2020-03-24 15:44:34
 tags:
 excerpt: >-
   José Bolaños es un entrenador de vida y un querido amigo mío que me ayudó a
