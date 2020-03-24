@@ -18,4 +18,6 @@ youtube_code: swFusIEZTCQ
 
 {% include youtube.html %}
 
-Jos&eacute; Bola&ntilde;os es un entrenador de vida y un querido amigo m&iacute;o que me ayud&oacute; a navegar a trav&eacute;s de muchas transiciones en mi vida. Dada la naturaleza dif&iacute;cil de los tiempos en que vivimos actualmente, pens&eacute; que ahora era un buen momento para sentarlo a una entrevista y aprender m&aacute;s sobre c&oacute;mo ayuda a los l&iacute;deres empresariales a tener &eacute;xito. Jos&eacute; se especializa en ayudar a los l&iacute;deres a desarrollar sus capacidades de complejidad; en otras palabras, ayuda a los l&iacute;deres a fortalecerse y superar desaf&iacute;os complejos.&nbsp;
+Jos&eacute; Bola&ntilde;os es un entrenador de vida y un querido amigo m&iacute;o que me ayud&oacute; a navegar a trav&eacute;s de muchas transiciones en mi vida. Dada la naturaleza dif&iacute;cil de los tiempos en que vivimos actualmente, pens&eacute; que ahora era un buen momento para sentarlo a una entrevista y aprender m&aacute;s sobre c&oacute;mo ayuda a los l&iacute;deres empresariales a tener &eacute;xito. Jos&eacute; se especializa en ayudar a los l&iacute;deres a desarrollar sus capacidades de complejidad; en otras palabras, **ayuda a los l&iacute;deres a fortalecerse y superar desaf&iacute;os complejos**. Sigue el video de arriba para ver nuestra entrevista completa.
+
+Si tiene alguna pregunta, no dude en comunicarse por tel&eacute;fono o correo electr&oacute;nico. Estar&iacute;a encantado de ayudarle.
