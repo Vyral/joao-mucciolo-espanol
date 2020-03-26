@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Los entrenadores de liderazgo pueden facilitar los desafíos de navegación
+title: Los Coaches de Liderazgo Pueden Facilitar los Desafíos
 date: 2020-03-24 15:44:00
 tags:
 excerpt: >-
@@ -14,6 +14,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/joao-mucciolo---march-2020---3---youtube.jpg
 youtube_code: cvazHOg94xE
+permalink: /los-entrenadores-de-liderazgo-pueden-facilitar-los-desafíos-de-navegación
 ---
 
 {% include youtube.html %}
