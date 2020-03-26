@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Los Coaches de Liderazgo Pueden Facilitar los Desafíos
+title: Los Coaches de Liderazgo Pueden Facilitar a Navegar los Desafíos
 date: 2020-03-24 15:44:00
 tags:
 excerpt: >-
