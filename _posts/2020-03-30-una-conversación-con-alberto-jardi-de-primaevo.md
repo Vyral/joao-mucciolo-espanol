@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Una conversación con Alberto Jardi de PrimaEvo
-date:
+date: 2020-03-30 20:50:03
 tags:
   - Bienes Raíces
 excerpt: >-
