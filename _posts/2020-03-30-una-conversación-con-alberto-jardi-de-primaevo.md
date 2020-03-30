@@ -21,7 +21,7 @@ youtube_code: VdfRaKP3HgQ
 
 {% include youtube.html %}
 
-Alberto Jardi fund&oacute; PrimaEvo con la misi&oacute;n de ayudar a las personas a obtener alimentos frescos y org&aacute;nicos entregados directamente a sus hogares. Aqu&iacute; est&aacute;n sus recomendaciones para mantenerse lo m&aacute;s saludable posible durante una pandemia global.
+<p style="text-align: center;"><em>Alberto Jardi fund&oacute; PrimaEvo con la misi&oacute;n de ayudar a las personas a obtener alimentos frescos y org&aacute;nicos entregados directamente a sus hogares. Aqu&iacute; est&aacute;n sus recomendaciones para mantenerse lo m&aacute;s saludable posible durante una pandemia global.</em></p>
 
 Hoy me acompa&ntilde;a Alberto Jardi de PrimaEvo. Nos encantan sus deliciosos productos, y cada vez que tenemos una transacci&oacute;n, mis clientes obtienen una canasta de sus maravillosos productos org&aacute;nicos. Se sent&oacute; conmigo para hablar un poco sobre su negocio, la importancia de tener una dieta saludable y las formas de fortalecer su sistema inmunol&oacute;gico durante estos tiempos locos.
 
