@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Una conversación con Alberto Jardi de PrimaEvo
+title: Una conversación con Alberto Yardi de PrimaEvo
 date: 2020-03-30 20:50:03
 tags:
   - Bienes Raíces
 excerpt: >-
-  Alberto Jardi fundó PrimaEvo con la misión de ayudar a las personas a obtener
+  Alberto Yardi fundó PrimaEvo con la misión de ayudar a las personas a obtener
   alimentos frescos y orgánicos entregados directamente a sus hogares. Aquí
   están sus recomendaciones para mantenerse lo más saludable posible durante una
   pandemia global.
@@ -21,11 +21,11 @@ youtube_code: VdfRaKP3HgQ
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Alberto Jardi fund&oacute; PrimaEvo con la misi&oacute;n de ayudar a las personas a obtener alimentos frescos y org&aacute;nicos entregados directamente a sus hogares. Aqu&iacute; est&aacute;n sus recomendaciones para mantenerse lo m&aacute;s saludable posible durante una pandemia global.</em></p>
+<p style="text-align: center;"><em>Alberto Yardi fund&oacute; PrimaEvo con la misi&oacute;n de ayudar a las personas a obtener alimentos frescos y org&aacute;nicos entregados directamente a sus hogares. Aqu&iacute; est&aacute;n sus recomendaciones para mantenerse lo m&aacute;s saludable posible durante una pandemia global.</em></p>
 
-Hoy me acompa&ntilde;a Alberto Jardi de PrimaEvo. Nos encantan sus deliciosos productos, y cada vez que tenemos una transacci&oacute;n, mis clientes obtienen una canasta de sus maravillosos productos org&aacute;nicos. Se sent&oacute; conmigo para hablar un poco sobre su negocio, la importancia de tener una dieta saludable y las formas de fortalecer su sistema inmunol&oacute;gico durante estos tiempos locos.
+Hoy me acompa&ntilde;a Alberto Yardi de PrimaEvo. Nos encantan sus deliciosos productos, y cada vez que tenemos una transacci&oacute;n, mis clientes obtienen una canasta de sus maravillosos productos org&aacute;nicos. Se sent&oacute; conmigo para hablar un poco sobre su negocio, la importancia de tener una dieta saludable y las formas de fortalecer su sistema inmunol&oacute;gico durante estos tiempos locos.
 
-Alberto Jardi tambi&eacute;n es entrenador de vida, entrenador personal, instructor de yoga y entusiasta de la longevidad. **Tambi&eacute;n fund&oacute; PrimaEvo hace cuatro a&ntilde;os como una forma de conectar a quienes producen alimentos org&aacute;nicos con quienes desean consumirlos.** Peque&ntilde;os empresarios locales est&aacute;n produciendo estas carnes, frutas, verduras y otros productos org&aacute;nicos, y PrimaEvo los est&aacute; entregando en hogares de todo Nicaragua.
+Alberto Yardi tambi&eacute;n es entrenador de vida, entrenador personal, instructor de yoga y entusiasta de la longevidad. **Tambi&eacute;n fund&oacute; PrimaEvo hace cuatro a&ntilde;os como una forma de conectar a quienes producen alimentos org&aacute;nicos con quienes desean consumirlos.** Peque&ntilde;os empresarios locales est&aacute;n produciendo estas carnes, frutas, verduras y otros productos org&aacute;nicos, y PrimaEvo los est&aacute; entregando en hogares de todo Nicaragua.
 
 Con la pandemia que ha estado sucediendo, Alberto ha ofrecido algunas sugerencias sobre lo que puede hacer para mantenerse tranquilo, relajado y saludable durante esta crisis.
 
