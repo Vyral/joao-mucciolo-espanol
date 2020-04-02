@@ -3,14 +3,17 @@ layout: post
 title: Viviendo en San Juan del Sur
 date:
 tags:
-excerpt:
+  - Articulos
+excerpt: >-
+  Esto es una prueba de articulo en espanol, ya se hizo el articulo en ingles y
+  este es en espanol
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: K5pf_aHqdTQ
 ---
 
 {% include youtube.html %}
