@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Viviendo en San Juan del Sur
-date:
+date: 2020-04-02 16:59:41
 tags:
   - Articulos
 excerpt: >-
