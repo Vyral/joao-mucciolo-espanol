@@ -6,7 +6,7 @@ permalink: /sobre/
 
 <div class="whitespace"><div><div class="recruiting-photo"><span class="client-image-container"><img alt="Joao Mucciolo" class="client-image" src="/img/joao.jpeg" /> </span></div></div></div>
 
-<figcaption class="caption"><p>Joao Mucciolo<br />Founder and Broker<br />San Juan del Sur office, Nicaragua<br />(505) 8883 &ndash; 8829 /&nbsp;<a href="mailto:joao@trinityrealestatenicaragua.com"><u>joao@trinityrealestatenicaragua.com</u></a></p></figcaption>
+<figcaption class="caption"><p>Joao Mucciolo<br />Founder and Broker<br />San Juan del Sur office, Nicaragua<br />(505) 8883 &ndash; 8829 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="mailto:joao@trinityrealestatenicaragua.com"><u>joao@trinityrealestatenicaragua.com</u></a></p></figcaption>
 
 ### Joao Mucciolo
 
