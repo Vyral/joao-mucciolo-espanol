@@ -1,6 +1,12 @@
 audit_header: false
 title: San Juan del Sur and Tola
-description: Our mission at Trinity Real Estate is to be your best resource for San Juan del Sur real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Trinity Real Estate, your professional San Juan del Sur Real Estate Agents.
+description: >-
+  Our mission at Trinity Real Estate is to be your best resource for San Juan
+  del Sur real estate advice. Whether you are a buyer, seller, or investor, our
+  team of professionals can answer any questions you might have about real
+  estate. If you are looking to buy or sell a home, you can get all the
+  information and the latest updates, tips, and tricks from The Trinity Real
+  Estate, your professional San Juan del Sur Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Testimonios
@@ -11,17 +17,26 @@ show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
     url:
-
 client:
   name: Joao Mucciolo
   title:
   license_number:
-  about_markdown: |
-    Joao ha sido emprendedor desde 2003 en Nicaragua, trayendo la franquicia Sushi Itto al país y creando su propia marca: Italianissimo. Creó una empresa de 6 restaurantes y más de 120 empleos directos.
+  about_markdown: >
+    Joao ha sido emprendedor desde 2003 en Nicaragua, trayendo la franquicia
+    Sushi Itto al país y creando su propia marca: Italianissimo. Creó una
+    empresa de 6 restaurantes y más de 120 empleos directos.
 
-    Brasileño de nacimiento y viajero del mundo, Joao aterrizó en Nicaragua hace más de 20 años y se considera hoy como Nica. Habla español, inglés, portugués y un poco de francés.
 
-    Joao ha contribuido al emprendimiento en Nicaragua, trayendo organizaciones como la Organización de Empresarios y Accelerator con el propósito de ayudar al crecimiento del emprendimiento. También es miembro de la Iniciativa de Liderazgo Centroamericana del Instituto Aspen, donde fortalece sus habilidades de liderazgo.
+    Brasileño de nacimiento y viajero del mundo, Joao aterrizó en Nicaragua hace
+    más de 20 años y se considera hoy como Nica. Habla español, inglés,
+    portugués y un poco de francés.
+
+
+    Joao ha contribuido al emprendimiento en Nicaragua, trayendo organizaciones
+    como la Organización de Empresarios y Accelerator con el propósito de ayudar
+    al crecimiento del emprendimiento. También es miembro de la Iniciativa de
+    Liderazgo Centroamericana del Instituto Aspen, donde fortalece sus
+    habilidades de liderazgo.
   brand: Trinity Real Estate
   brokerage: Keller Williams
   market: San Juan del Sur
@@ -31,37 +46,39 @@ client:
   phone2:
   phone2_type:
   email: Joao@trinityrealestatenicaragua.com
-  url: 
-
+  url:
 CTAs:
   first_CTA_text: Búsqueda de listados
-  first_CTA_URL: https://www.kwnicaragua.com/listings#?agentId=14319&agentName=Joao%20Mucciolo&resCom=0&transactionType=0&lan=es-NI&currency=USD&filterVal=1026&refineSearch=1&pageNumber=1
+  first_CTA_URL: >-
+    https://www.kwnicaragua.com/listings#?agentId=14319&agentName=Joao%20Mucciolo&resCom=0&transactionType=0&lan=es-NI&currency=USD&filterVal=1026&refineSearch=1&pageNumber=1
   second_CTA_text: Evaluación de propiedad
   second_CTA_URL: /valor-de-la-propiedad/
   third_CTA_text: Propiedades para alquilar
-  third_CTA_URL: https://selvapacifica.com/
-
+  third_CTA_URL: 'https://selvapacifica.com/'
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/002.jpg
-    CTA_title: "¿Busca una casa en San Juan del Sur o Tola?"
-    CTA_text: "Buscar todas las propiedades residenciales disponibles para la venta"
-    CTA_link_text: "Búsqueda de listados"
-    CTA_url: https://www.kwnicaragua.com/listings#?agentId=14319&agentName=Joao%20Mucciolo&resCom=0&transactionType=0&lan=es-NI&currency=USD&filterVal=1026&refineSearch=1&pageNumber=1
-
+  - CTA_image_path: /uploads/caradelindio-80.jpg
+    CTA_title: ¿Busca una casa en San Juan del Sur o Tola?
+    CTA_text: Buscar todas las propiedades residenciales disponibles para la venta
+    CTA_link_text: Búsqueda de listados
+    CTA_url: >-
+      https://www.kwnicaragua.com/listings#?agentId=14319&agentName=Joao%20Mucciolo&resCom=0&transactionType=0&lan=es-NI&currency=USD&filterVal=1026&refineSearch=1&pageNumber=1
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/001.jpg
-    CTA_title2: "¿Cuánto vale su propiedad?"
-    CTA_text2: "¿Está pensando en vender su casa o está interesado en conocer los precios de la vivienda en su vecindario? Te podemos ayudar."
-    CTA_link_text2: "Evaluación de propiedad"
+    CTA_title2: ¿Cuánto vale su propiedad?
+    CTA_text2: >-
+      ¿Está pensando en vender su casa o está interesado en conocer los precios
+      de la vivienda en su vecindario? Te podemos ayudar.
+    CTA_link_text2: Evaluación de propiedad
     CTA_url2: /valor-de-la-propiedad/
-
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/003.jpg
-    CTA_title3: "Casas de vacaciones que son extraordinarias"
-    CTA_text3: "Con una colección seleccionada de exclusivos espacios de lujo seleccionados a mano, en todas las formas y tamaños, brindamos las mejores experiencias en toda Nicaragua."
-    CTA_link_text3: "Buscar propiedades de alquiler"
-    CTA_url3: https://selvapacifica.com/
-
+    CTA_title3: Casas de vacaciones que son extraordinarias
+    CTA_text3: >-
+      Con una colección seleccionada de exclusivos espacios de lujo
+      seleccionados a mano, en todas las formas y tamaños, brindamos las mejores
+      experiencias en toda Nicaragua.
+    CTA_link_text3: Buscar propiedades de alquiler
+    CTA_url3: 'https://selvapacifica.com/'
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -74,59 +91,66 @@ lender:
   phone:
   email:
   url:
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/trinityrealestatenic/
-  linkedin_url: https://www.linkedin.com/in/joao-mucciolo-7b2534/
-  youtube_url: https://www.youtube.com/channel/UC7RxnXBs__0hN02eOs5xd8A?view_as=subscriber
+  facebook_url: 'https://www.facebook.com/trinityrealestatenic/'
+  linkedin_url: 'https://www.linkedin.com/in/joao-mucciolo-7b2534/'
+  youtube_url: 'https://www.youtube.com/channel/UC7RxnXBs__0hN02eOs5xd8A?view_as=subscriber'
   twitter_url:
-  instagram_url: https://www.instagram.com/joaomucciolo/
+  instagram_url: 'https://www.instagram.com/joaomucciolo/'
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url: https://podcasts.apple.com/us/podcast/san-juan-del-sur-real-estate-podcast-with-joao-mucciolo/id1486397756
-
+  podcast_url: >-
+    https://podcasts.apple.com/us/podcast/san-juan-del-sur-real-estate-podcast-with-joao-mucciolo/id1486397756
 podcast:
-  title: 'San Juan del Sur Real Estate Podcast with Joao Mucciolo'
-  categories: Education
+  title: San Juan del Sur Real Estate Podcast with Joao Mucciolo
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the San Juan del Sur Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Trinity Real Estate - your professional San Juan del Sur Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Juan del Sur, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Joao Mucciolo'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the San Juan
+    del Sur Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from Trinity Real Estate - your
+    professional San Juan del Sur Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in San Juan del
+    Sur, home selling tips, home for sale, home buying, home buying process,
+    property finder, property search, property, real estate market, estate
+    agent, realestate, real estate listings, buying a house, homes for sale,
+    mls, home buyer
+  author: Joao Mucciolo
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 30
   hero_text: Blog de video inmobiliario de San Juan del Sur y Tola
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
   post_cta_image: /img/home-value.jpg
   post_cta_image2: /img/home-search.jpg
-
 site_colors:
   brand_color: '#b40101'
   theme_color: '#333333'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: black
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
