@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Tour Virtual del Rancho Papayal en San Juan del Sur
-date: 2020-04-08 17:54:12
+date: 2020-04-08 17:54:00
 tags:
   - Bienes Raíces
   - Actualización del Mercado
-excerpt:
+excerpt: >-
+  El día de hoy te quería hacer un Tour Virtual de esta linda casa a tan solo 10
+  minutos de San Juan del Sur, Nicaragua
 enclosure:
 pullquote:
 enclosure_type: video/mp4
